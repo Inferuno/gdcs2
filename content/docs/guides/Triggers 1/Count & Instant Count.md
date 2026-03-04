@@ -1,9 +1,11 @@
 ---
 title: Count & Instant Count
 weight: 344
+contributors:
+- koma5
+- Madzz
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Count trigger waits until an Item ID reaches a target count before activating, while the Instant Count trigger checks if the target count is reached at the instant it activates.
@@ -37,10 +39,3 @@ The Instant Count trigger {{< img src="images/GDEmotes/Triggers/InstantCount.png
 {{< youtube 3L631JagjZ8 >}}
 
 The target count must be reached *before* the Instant Count trigger activates, or it won’t work.
-
-
-
-
-
-## Credits
-Created by @Madzz and @koma5

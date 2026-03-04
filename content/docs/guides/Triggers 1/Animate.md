@@ -1,9 +1,11 @@
 ---
 title: Animate
 weight: 319
+contributors:
+- naem
+- NotAModerator
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Animate trigger can change the currently playing animation of the monster objects in the orbs tab.
@@ -89,8 +91,3 @@ All the other settings in the particle menu can be tweaked to what you desire. O
 Here is an example of the setup and final product, compared to a particle that isn't animated:
 
 {{< youtube dXoohYiYBXU >}}
-
-
-
-## Credits
-Created by @NotAModerator and @naem

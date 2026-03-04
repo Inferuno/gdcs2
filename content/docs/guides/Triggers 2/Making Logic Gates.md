@@ -1,10 +1,11 @@
 ---
 title: Making Logic Gates
 weight: 608
+contributors:
+- ChuckOlate
+- tanhR
 draft: false
 ---
-## Guide info
-Long: 24-28 minutes
 
 ## TLDR - What this guide covers
 - Logic gates receive a set of conditions and output a true or false statement.
@@ -395,12 +396,8 @@ You may notice I actually didn't use any trigger to make the OR gate. That is be
 None
 
 
-## Sources
+# Sources
 
 - [Practical Ninjas: Half adder](<https://www.youtube.com/watch?v=thkTzdnkL5U>)
 - [Build Electronic Circuits: Full Adder](<https://www.build-electronic-circuits.com/full-adder/>)
 
-
-
-## Credits
-Created by @ChuckOlate and @tanhR

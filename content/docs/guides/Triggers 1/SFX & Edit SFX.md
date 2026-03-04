@@ -1,10 +1,12 @@
 ---
 title: SFX & Edit SFX
 weight: 315
+contributors:
+- DangerChampion
+- Electrify
 draft: false
 math: true
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The SFX trigger allows you to choose a variety of sound effects to use. You can give these sound effects unique IDs; change when they start and end; and change their speed, pitch, and proximity.
@@ -13,6 +15,9 @@ math: true
 {{< /callout >}}
 
 ** **
+
+# 1: SFX Trigger
+
 Sometimes, a GD level with a Newgrounds song just isn't enough to make your levels complete. You want to add in SFX to add details to your level. Imagine playing a Super Mario game, but without the iconic jump sound. It just doesn't hit the same. The new {{< img src="images/GDEmotes/Triggers/SFXTrigger.png" class="emote">}} SFX trigger completely changes that now, and here's how to utilize it to your advantage.
 
 First place down the SFX trigger. When selected, click on the {{< img src="images/GDEmotes/Buttons/EditObject.png" class="emote">}} Edit Object button. The first page of the SFX Trigger is shown below:
@@ -169,10 +174,3 @@ This page is already covered in the fourth page of the SFX trigger, so this is g
 The video below demonstrates the usages of SFX and Edit SFX triggers:
 
 <div><iframe src=https://drive.google.com/file/d/1FbXa2GOVXoAYdyGai7vkdhwKPEL14C8Q/preview?usp=drivesdk></iframe></div>
-
-
-
-
-
-## Credits
-Created by @DangerChampion and @Electrify

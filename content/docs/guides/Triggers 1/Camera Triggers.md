@@ -1,9 +1,11 @@
 ---
 title: Camera Triggers
 weight: 329
+contributors:
+- etherail
+- zars70
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - With Update 2.2, various Camera Triggers are added to the game.
@@ -162,5 +164,3 @@ Shake triggers can be used to *exaggerate impact*, or emphasize a buildup with d
 
 
 
-## Credits
-Created by @etherail and @zars70

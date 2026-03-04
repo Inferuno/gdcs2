@@ -1,9 +1,11 @@
 ---
 title: Area Triggers
 weight: 318
+contributors:
+- koma5
+- naem
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (7-9 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Area triggers activate based on the distance between a center object and other objects. Think of them like a collision trigger "over time".
@@ -143,8 +145,3 @@ For example, Area Scale animate can edit an Area Move trigger’s length but not
 
 {{< youtube nTlAHzhFxcU >}}
 
-
-
-
-## Credits
-Created by @koma5 and @naem

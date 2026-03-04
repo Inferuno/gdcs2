@@ -1,9 +1,11 @@
 ---
 title: Gradient
 weight: 320
+contributors:
+- Madzz
+- TheMilkCat
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The gradient trigger lets you create gradients in a certain range. It also has four different blending modes.
@@ -51,7 +53,3 @@ The curves here are created by using the Area Move trigger to smoothly move the 
 
 **Video:** [Geometry Dash 2.2’s OP Gradient Trigger! (Tutorial)](https://youtu.be/jhP4Tt_OpA0?si=VUeBGlPy1806EiqA)
 
-
-
-## Credits
-Created by @Madzz and @TheMilkCat

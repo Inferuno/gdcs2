@@ -1,10 +1,12 @@
 ---
 title: Making Vectors
 weight: 612
+contributors:
+- NotAModerator
+- tanhR
 draft: false
 math: true
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Using vectors and mathematics, we can move points in more ways than what the game typically provides.
@@ -167,6 +169,3 @@ Having 2 derivatives, for example deriving the derivative of $C$, you will get a
 ## Other Calculus
 
 If you need vectors to perform something outside geometry, such as calculus, then there are methods much better than moving objects. You can use item IDs to represent vectors and actually use values coming from a derivative, since a vector is characterized with 2 coordinates. With Item Edit triggers, you can use its many calculation options to get the results you want.
-
-## Credits
-Created by @NotAModerator and @tanhR

@@ -1,9 +1,11 @@
 ---
 title: Using Remap Properties
 weight: 604
+contributors:
+- koma5
+- eggyolk
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Spawn remapping has various properties: Abstraction, Priority, Inheritance, Recursion and Exclusivity.
@@ -124,12 +126,8 @@ This setup can also use ItemIDs instead. When you want to pulse the selected blo
 <div><iframe src=https://drive.google.com/file/d/1nofIZKdMMTunu2kH4M9laYyUlm_02tf7/preview?usp=drivesdk></iframe></div>
 
 4. To activate the wanted triggers, change the value of ItemID 1 with a Pickup trigger as shown in the video.
+
 ## Dynamic Groups
 Spawn remaps can also be used to make Dynamic Groups. This is a setup made by @koma5 that lets you choose a target group for a trigger based on an ItemID’s value. You can read more about it in the [Making Data Structures](https://docs.google.com/document/d/17OohiVbf_m8fiL_1_FSl0Yn5NjBrE7dBMNRALGljp54/edit?usp=sharing) guide.
 
 
-
-
-
-## Credits
-Created by @eggyolk and @koma5

@@ -1,9 +1,10 @@
 ---
 title: Spawn
 weight: 334
+contributors:
+- koma5
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Spawn Trigger lets you activate triggers which are marked as “Spawn Triggered” and added to a group. This lets you create trigger setups that you can reuse as necessary.
@@ -82,8 +83,3 @@ You can remap up to 20 groups per spawn trigger. To remap another group, simply 
 
 If you want to remap the same group twice you can do that, but the group it remaps to must be different or you won't be able to add it.
 
-
-
-
-## Credits
-Created by @koma5

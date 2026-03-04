@@ -1,9 +1,11 @@
 ---
 title: Pickup
 weight: 343
+contributors:
+- Danail
+- Madzz
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Pickup trigger lets you modify the value of an Item ID. Its checkboxes give you more control of how you modify it.
@@ -41,9 +43,3 @@ This works by setting the center of the pickup trigger to the digit in that posi
 
 {{< youtube cWGsHqN0FiE >}}
 
-
-
-
-
-## Credits
-Created by @Danail and @Madzz

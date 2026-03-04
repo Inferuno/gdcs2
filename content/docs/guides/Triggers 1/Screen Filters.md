@@ -1,9 +1,11 @@
 ---
 title: Screen Filters
 weight: 322
+contributors:
+- DangerChampion
+- TDP9
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (14-16 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Shader Triggers alter the player’s and level’s qualities and colors.
@@ -231,9 +233,3 @@ __Splits the screen into multiple screens__.
 
 {{< youtube fMXuJoW3o40 >}}
 
-
-
-
-
-## Credits
-Created by @DangerChampion and @TDP9

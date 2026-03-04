@@ -1,9 +1,11 @@
 ---
 title: Event Link
 weight: 338
+contributors:
+- EYZ
+- Selena
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Event Link trigger is used to detect player inputs and activate a group based on what the player does.
@@ -40,10 +42,3 @@ Here is an example of what you can make with this trigger:
 {{< youtube q_29LgSGSM4 >}}
 
 In this particular level, the player always moves forward at a certain speed. By pressing a corresponding key we either turn left or right. Upon pressing W or ^ we dash forward. This trigger is also used at a start to choose between different set of controls: **A W D** or **< ^ >**.
-
-
-
-
-
-## Credits
-Created by @EYZ and @Selena

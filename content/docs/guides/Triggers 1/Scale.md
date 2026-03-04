@@ -1,9 +1,11 @@
 ---
 title: Scale
 weight: 310
+contributors:
+- EYZ
+- Selena
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The scale trigger changes the size of objects set from their individual centers or center point.
@@ -53,7 +55,3 @@ Before 2.2, scaling was achieved by using plenty of groups and follow triggers, 
 
 {{< youtube FzVIs43rNUs >}}
 
-
-
-## Credits
-Created by @EYZ and @Selena

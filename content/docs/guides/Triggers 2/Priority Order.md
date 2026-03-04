@@ -1,9 +1,11 @@
 ---
 title: Priority Order
 weight: 603
+contributors:
+- NotAModerator
+- 𝕋ypexleta
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Ordering of triggers is important, as it prevents possible randomness in the way they fire.
@@ -25,7 +27,7 @@ The rules for Priority Order are as follows:
 - Priority order is determined within a section. Think of it as a “list” detailing all the objects in a section and where they stand on the game’s priority.
 - When an object is added to a section or moved in from a different one, it’ll have the lowest priority of that section.
 - When an object is deleted or moved out of a section, the object with the lowest priority will take its place on the priority list. For example: If the list is `1, 2, 3, 4`, and object `2` is removed, then the new priority is `1, 4, 3`.
-- In **Update 2.1,** priority order is saved between attempts. 
+- In **Update 2.1,** priority order is saved between attempts.
 
 Remember that Priority Order doesn’t care about an object’s X position, as long as it’s within the same section.
 
@@ -111,10 +113,3 @@ In the case of 2 or more triggers having the same X position and the same order 
 An important thing to note is that a trigger’s priority depends on the previous triggers’ priority, so the order of 2 triggers activated by different spawn triggers is based on the order of these spawn triggers.
 
 <div><iframe src=https://drive.google.com/file/d/156OvgVeq67cOymS_k4FDVTaCTbZbwlkL/preview?usp=drivesdk></iframe></div>
-
-
-
-
-
-## Credits
-Created by @NotAModerator and @𝕋ypexleta

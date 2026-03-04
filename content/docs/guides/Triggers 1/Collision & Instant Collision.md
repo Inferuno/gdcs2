@@ -1,9 +1,10 @@
 ---
 title: Collision & Instant Collision
 weight: 337
+contributors:
+- koma5
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Collision Triggers activate when two Collision Blocks touch. This makes them simulate hitboxes well.
@@ -81,9 +82,3 @@ In the example below, a state block is used as a button to rotate platforms. Thi
 - If both players enter or leave the state block on the same frame, it registers as one input.
 - If both players are in the same state block at the same time, it will register *both* enters, but only *one* exit.
 
-
-
-
-
-## Credits
-Created by @koma5

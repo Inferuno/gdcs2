@@ -1,0 +1,17 @@
+{{ $page := .Page }}
+{{ with $page.Params.contributors }}
+<br>
+{{ "** **" | $page.RenderString }}
+<h1>Credits</h1>
+<p></p>
+Created by
+{{ $contributors := . }}
+{{- range $index, $contributor := $contributors -}}
+  {{- if gt $index 0 -}}
+    {{- if eq $index (sub (len $contributors) 1) }} and {{ else }}, {{ end -}}
+  {{- end -}}
+  {{- $contributor := trim $contributor " " -}}
+    <a href='/contributors/{{- $contributor | lower -}}' target='_blank' rel='noopener'>@{{- $contributor -}}</a>
+  {{- end -}}.
+  </p>
+{{ end }}

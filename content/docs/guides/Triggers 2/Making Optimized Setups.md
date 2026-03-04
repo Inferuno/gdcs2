@@ -1,6 +1,10 @@
 ---
 title: Making Optimized Setups
 weight: 615
+contributors:
+- ChuckOlate
+- eggyolk
+- TheMilkCat
 draft: false
 math: true
 
@@ -10,8 +14,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-** **
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (13-15 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
@@ -209,9 +211,5 @@ However, managing IDs can be challenging to pull off correctly, as it can raise 
 To mitigate this, you can use multiple types of ID within a single remap. In the example above, IDs 100-110 can host the group IDs for deco, the item IDs for health, *and* the block IDs for collisions, while saving the rest for additional features. Although, if you do this you’d need more comprehensive ID tracking. You can check the [Using IDs guide]({{< ref "docs/guides/The Editor/Using IDs.md" >}}). for more information. In any case, this step should be used close to finalizing the trigger system or in advanced trigger setups where ID management is mandatory.
 
 
-## Sources
+# Sources
 - <a href="/downloads/pdf/Trigger Building Guidelines.pdf" download>Trigger Building Guidelines</a> by **@TheMilkCat**
-
-
-## Credits
-Created by **@ChuckOlate**, **@TheMilkCat** and **@eggyolk**

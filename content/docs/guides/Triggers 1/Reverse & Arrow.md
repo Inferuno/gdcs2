@@ -1,9 +1,11 @@
 ---
 title: Reverse & Arrow
 weight: 328
+contributors:
+- EYZ
+- Selena
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (3-5 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Reverse Trigger makes go backwards, but it has the least utility if you need more complex sideways gameplay.
@@ -13,6 +15,9 @@ draft: false
 {{< /callout >}}
 
 ** **
+
+# 1: Reverse Trigger
+
 {{< img src="https://lh3.googleusercontent.com/d/1ckqDhwTumt2IHfk_9efgvfXlxElffrf7" >}}
 
 :ReverseTrigger: This is probably one of the simplest triggers in the game. Just place it down and the player goes backwards. However, it might be too simple that it also borders on useless. For example, placing two reverse triggers like below won’t work properly if you want the rightmost trigger to activate first:
@@ -70,8 +75,3 @@ In Update 2.1, we could also use this trick, however we had to rely on bugs that
 By making the player go back and forth while guiding a camera to slowly go up, you can create some interesting gameplay. This was used twice in Toxic Surge by GiaMmix.
 
 {{< youtube LhLE9MqU_SQ >}}
-
-
-
-## Credits
-Created by @EYZ and @Selena

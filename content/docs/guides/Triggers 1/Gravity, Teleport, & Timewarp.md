@@ -1,9 +1,11 @@
 ---
 title: Gravity, Teleport, & Timewarp
 weight: 330
+contributors:
+- NotAModerator
+- TDP9
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Gravity Trigger can control the amount of gravity applied to the player or players whether the player is in a dual.
@@ -13,6 +15,9 @@ draft: false
 {{< /callout >}}
 
 ** **
+
+# 1: Gravity Trigger
+
 The Gravity Trigger changes the amount of gravity inflicted onto the player. Lower values mean a lower gravity and higher ones have higher gravity. This value can be set to a maximum of 1 billion.
 
 {{< youtube VDpWQOh8_hg >}}
@@ -63,9 +68,3 @@ This trigger speeds up or slows down game speed to a specified value in the 0.10
 
 {{< youtube 6PyT0AEI15w >}}
 
-
-
-
-
-## Credits
-Created by @NotAModerator and @TDP9

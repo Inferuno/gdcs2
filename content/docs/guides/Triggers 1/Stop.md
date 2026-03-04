@@ -1,9 +1,11 @@
 ---
 title: Stop
 weight: 341
+contributors:
+- Half-Cooked Ramen
+- TDP9
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Stop trigger ends the action of an active trigger.
@@ -35,8 +37,3 @@ To use these options, place down a Stop trigger, go to {{< img src="images/GDEmo
 The Resume option does not have to target the same group as the original Pause option. As long as a trigger has been affected by a Pause, a Resume trigger can resume its actions.
 
 These triggers also interact with each other in unique ways. For example, you can’t use a Pause or Stop trigger on another Pause/Resume trigger. If you want to stop/pause a Resume trigger, you have to stop or pause the original group. Similarly, you can’t pause or resume a trigger which has been stopped *until it’s activated again*.
-
-
-
-## Credits
-Created by @TDP9 and @Half-Cooked Ramen

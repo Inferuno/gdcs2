@@ -1,9 +1,11 @@
 ---
 title: Sequence
 weight: 339
+contributors:
+- Erazer
+- naem
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Sequence Trigger activates groups in a certain sequence.
@@ -78,9 +80,3 @@ A **T Flip Flop** *(Toggle flip flop)* is a logic circuit that takes only one in
 
 {{< youtube 9fSX8ijhR0E >}}
 
-
-
-
-
-## Credits
-Created by @Erazer and @naem

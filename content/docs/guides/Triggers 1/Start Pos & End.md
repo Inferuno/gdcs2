@@ -1,9 +1,12 @@
 ---
 title: Start Pos & End
 weight: 327
+contributors:
+- koma5
+- naem
+- print
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Start Position trigger sets where you start in a level. You cannot verify a level with an active Start Position in it.
@@ -37,9 +40,3 @@ The **End** trigger sets where the level will end. By default, activating the tr
 
 {{< youtube iANBfqCz7JA >}}
 
-
-
-
-
-## Credits
-Created by @koma5, @naem and @print

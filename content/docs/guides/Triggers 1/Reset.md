@@ -1,9 +1,11 @@
 ---
 title: Reset
 weight: 347
+contributors:
+- Dimstack
+- Selena
 draft: true
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (0-2 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The reset trigger resets any collectibles and checkpoints under an ID of your choosing.
@@ -15,9 +17,3 @@ The example above has a checkpoint and six coin collectables assigned to group I
 
 The Reset trigger also works on breakable blocks too.
 
-
-
-
-
-## Credits
-Created by @Dimstack and @Selena

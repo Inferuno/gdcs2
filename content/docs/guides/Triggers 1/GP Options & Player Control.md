@@ -1,9 +1,11 @@
 ---
 title: GP Options & Player Control
 weight: 332
+contributors:
+- EYZ
+- koma5
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Options Trigger is essentially a toggle trigger for player related actions. To toggle them back on or off use another one with opposite settings.
@@ -59,9 +61,3 @@ Do not confuse this with {{< img src="images/GDEmotes/Triggers/GPOptionsTrigger.
 
 {{< youtube QItXhkRg108 >}}
 
-
-
-
-
-## Credits
-Created by @EYZ and @koma5

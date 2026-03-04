@@ -1,9 +1,11 @@
 ---
 title: Spawn Particle
 weight: 321
+contributors:
+- koma5
+- naem
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Spawn Particle trigger lets you spawn particle objects at a group of your choosing.
@@ -26,8 +28,3 @@ The +/- sliders next to “Scale” and “Rotation” is variance and will rand
 
 {{< youtube rv8ACa8Km5I >}}
 
-
-
-
-## Credits
-Created by @koma5 and @naem

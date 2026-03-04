@@ -1,9 +1,11 @@
 ---
 title: Keyframes
 weight: 311
+contributors:
+- eggyolk
+- koma5
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (7-9 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Keyframe system can be used to create advanced animations. A keyframe animation is composed of linked and ordered keyframes.
@@ -181,9 +183,3 @@ Now that we understand how the keyframe system works, we can use it to create a 
 
 We have now created a simple bouncing ball animation. You can play around with the values used to fit your needs.
 
-
-
-
-
-## Credits
-Created by @eggyolk and @koma5

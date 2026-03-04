@@ -1,9 +1,10 @@
 ---
 title: On Death
 weight: 335
+contributors:
+- koma5
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (0-2 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The On Death trigger activates when the player dies.
@@ -27,10 +28,4 @@ When Activate Group is enabled, it’ll toggle all objects on. Triggers in the g
 One thing to note is that an On Death trigger can be activated at any time, but its effects will only show up when the player dies. You don’t need to put one on every spike, or something like that.
 
 {{< youtube KNMTf4CIsFI >}}
-
-
-
-
-## Credits
-Created by @koma5
 

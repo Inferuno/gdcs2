@@ -1,9 +1,11 @@
 ---
 title: Touch
 weight: 336
+contributors:
+- eggyolk
+- Selena
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Touch trigger activates when the player clicks; it doubles as a toggle and a spawn trigger
@@ -77,10 +79,3 @@ The toggle orb/block now functions as a spawn trigger; it does not toggle on or 
 Enabling this option cancels the jump button’s action; the player cannot jump while inside the toggle orb/block.
 
 {{< youtube TbaT6kXoyz8 >}}
-
-
-
-
-
-## Credits
-Created by @Selena and @eggyolk

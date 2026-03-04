@@ -1,10 +1,12 @@
 ---
 title: Song & Edit Song
 weight: 314
+contributors:
+- DangerChampion
+- Electrify
 draft: false
 math: true
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Song trigger changes the level’s song in a channel. You can adjust the song’s properties, like the volume, speed, and when it starts and ends.
@@ -13,6 +15,9 @@ math: true
 {{< /callout >}}
 
 ** **
+
+# 1: Song Trigger
+
 Go to the Triggers tab and place down the {{< img src="images/GDEmotes/Triggers/SongTrigger.png" class="emote">}} Song trigger. It lets you add new songs to your level.
 
 When selected, click on {{< img src="images/GDEmotes/Buttons/EditObject.png" class="emote">}} Edit Object to edit its properties.
@@ -104,9 +109,3 @@ This video demonstrates a good usage of the song and song edit trigger:
 
 {{< youtube tADSk7emWbU >}}
 
-
-
-
-
-## Credits
-Created by @DangerChampion and @Electrify

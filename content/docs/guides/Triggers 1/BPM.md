@@ -1,9 +1,12 @@
 ---
 title: BPM
 weight: 316
+contributors:
+- koma5
+- Mycelium
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
+
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The BPM trigger lets you accurately make guidelines for your song, which is helpful for syncing gameplay properly.
@@ -48,8 +51,3 @@ In my case the song's BPM is 146, so I configure the BPM trigger accordingly and
 
 {{< img src="https://lh3.googleusercontent.com/d/1HCnGzLVr5AaS6V6PwTxpbQvbRPMkxg-s" >}}
 
-
-
-
-## Credits
-Created by @Mycelium and @koma5

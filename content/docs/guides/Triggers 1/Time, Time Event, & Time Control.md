@@ -1,9 +1,11 @@
 ---
 title: Time, Time Event, & Time Control
 weight: 346
+contributors:
+- etherail
+- naem
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Time trigger turns counter labels into timers, useful for Platformer levels.
@@ -42,10 +44,3 @@ The **Time Event** trigger looks like a cyan clock and spawns groups based on ce
 # 3: Time Control
 
 The Time Control trigger looks like a yellow clock and is the simplest one from the 3 time triggers. You can use this to start or stop a timer by inputting its ItemID.
-
-
-
-
-
-## Credits
-Created by @etherail and @naem

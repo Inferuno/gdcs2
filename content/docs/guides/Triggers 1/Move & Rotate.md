@@ -1,9 +1,10 @@
 ---
 title: Move & Rotate
 weight: 308
+contributors:
+- koma5
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Move Trigger changes the location of objects. You can enter specific coordinates (e.g. move 3 blocks to the right, then 5 up), or use Move To Target to move one object onto another.
@@ -80,9 +81,3 @@ Rotate triggers will always stack in Update 2.2, but this used to not be the cas
 
 {{< youtube Vf9xiH5wY4o >}}
 
-
-
-
-
-## Credits
-Created by @koma5

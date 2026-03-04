@@ -1,9 +1,11 @@
 ---
 title: Random & Advanced Random
 weight: 340
+contributors:
+- koma5
+- TheMilkCat
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Two triggers control randomness; the Random and Advanced Random triggers.
@@ -47,8 +49,3 @@ Randomness is quite a dangerous tool to play with. Use it incorrectly and you’
 
 A good tip is to get playtesters for your level; if they get annoyed with the randomness, you might want to adjust your gameplay accordingly.
 
-
-
-
-## Credits
-Created by @TheMilkCat and @koma5

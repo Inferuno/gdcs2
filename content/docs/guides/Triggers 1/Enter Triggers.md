@@ -1,9 +1,11 @@
 ---
 title: Enter Triggers
 weight: 325
+contributors:
+- etherail
+- EYZ
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Enter Effect triggers add transitions to objects entering or exiting the screen.
@@ -148,8 +150,3 @@ Changes object color when they enter/exit the screen.
 This trigger is used to disable an ongoing custom enter effect, similar to {{< img src="images/GDEmotes/Triggers/Fade13.png" class="emote">}}
 
 
-
-
-
-## Credits
-Created by @EYZ and @etherail
