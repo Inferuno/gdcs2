@@ -32,9 +32,11 @@ This is because the reverse trigger placed on the left activates first. While yo
 
 Another way to change directions is enabling the **Reverse** option in the Edit Group tab’s extras menu. It makes jump pads & orbs switch the direction you're going in, with the only exceptions being Dash and Toggle orbs.
 
-{{< youtube id=LhLE9MqU_SQ start=24>}}
-
 {{< img src="https://lh3.googleusercontent.com/d/1408NOQrNn0eCfnkc01mnL4J_IDOuqn69" >}}
+
+Here's an example of this option being used in a level.
+
+{{< youtube id=LhLE9MqU_SQ start=24>}}
 
 *Keep in mind that both the Reverse trigger and option are useless in Platformer mode because you can freely move left and right as you please.*
 
