@@ -2,6 +2,8 @@
 title: Gradient
 weight: 320
 date: 2014-01-08
+authors:
+- themilkcat_tmc
 contributors:
 - __madzz__
 - themilkcat_tmc
