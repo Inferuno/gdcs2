@@ -3,10 +3,10 @@ title: Making Vectors
 weight: 612
 date: 2024-11-30
 authors:
-- tanhR
+- tanhr
 contributors:
 - notamoderatr
-- tanhR
+- tanhr
 draft: false
 math: true
 ---

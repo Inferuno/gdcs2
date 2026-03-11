@@ -3,6 +3,11 @@
   displayname: Lagwerious
   userDisplay: true
 
+- ID: "???"
+  username: Unknown
+  displayname: unknown
+  useDisplay: true
+
 - ID: "1156276508449587321"
   username: gustonguygermany
   displayname: Gustron
@@ -331,4 +336,14 @@
 - ID: "309104296362901505"
   username: colon
   displayname: Colon
+  useDisplay: true
+
+- ID: "564513059998007306"
+  username: tanhr
+  displayname: tanhR
+  useDisplay: true
+
+- ID: "402886204036612096"
+  username: furorem
+  displayname: Furorem
   useDisplay: true
