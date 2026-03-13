@@ -101,5 +101,5 @@ The final gradient would look like this, with the brighter areas being directly 
 
 **Video:**
 
-{[< youtube P2r4Z5kbx7M start=27 end=120 >]}
+{{< youtube P2r4Z5kbx7M start=27 end=120 >}}
 

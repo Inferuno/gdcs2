@@ -138,5 +138,5 @@ While this trigger focuses more on color correction, it is still effective as it
 
 **Video:**
 
-{[< youtube P2r4Z5kbx7M start=1116 >]}
+{{< youtube P2r4Z5kbx7M start=1116 >}}
 

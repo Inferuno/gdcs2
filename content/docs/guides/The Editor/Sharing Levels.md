@@ -7,6 +7,7 @@ authors:
 contributors:
 - komatic5
 - sparktwee
+- lagwerious
 draft: false
 
 seo:
@@ -68,18 +69,18 @@ If you successfully upload your level, you will receive the official level ID th
 
 # 4: Copied Level and Red Plus stickers
 
-You might have noticed that some levels have the {{< img src="images/GDEmotes/Icons/CopiedLevel.png" class="emote">}} (Copied Level) and {{< img src="images/GDEmotes/Icons/RedPlus.png" class="emote">}} (Red Plus) sticker placed on the right of the level name.
-You might have noticed that some levels have the :CopiedLevel: and :RedPlus: sticker placed on the right of the level name.
+You might have noticed that some levels have the {{< img src="images/GDEmotes/Icons/CopiedLevel.png" class="emote">}} Copied Level and {{< img src="images/GDEmotes/Icons/RedPlus.png" class="emote">}} Red Plus sticker placed on the right of the level name.
+You might have noticed that some levels have the {{< img src="images/GDEmotes/Icons/CopiedLevel.png" class="emote">}} and {{< img src="images/GDEmotes/Icons/RedPlus.png" class="emote">}} sticker placed on the right of the level name.
 
-If a level has a Copied Level sticker, it means it was originally copied from an existing level in the server. The original ID will also be displayed alongside the new copied ID. Many would assume that a level with C means it is stolen. And you’d be correct sometimes, but other times it's used for collabs. In order to merge collab parts together, creators will need to share the level as unlisted and copying these parts will give you that C sticker too.
+If a level has a {{< img src="images/GDEmotes/Icons/CopiedLevel.png" class="emote">}} sticker, it means it was originally copied from an existing level in the server. The original ID will also be displayed alongside the new copied ID. Many would assume that a level with {{< img src="images/GDEmotes/Icons/CopiedLevel.png" class="emote">}} means it is stolen. And you’d be correct sometimes, but other times it's used for collabs. In order to merge collab parts together, creators will need to share the level as unlisted and copying these parts will give you that {{< img src="images/GDEmotes/Icons/CopiedLevel.png" class="emote">}} sticker too.
 
-The Red Plus sticker deals with Object count. If your level has more than 40, 000 objects, this sticker will show up. Many levels have very high object counts for a variety of reasons. They range from poor optimization to visual details to effects.
+The {{< img src="images/GDEmotes/Icons/RedPlus.png" class="emote">}} sticker deals with Object count. If your level has more than 40, 000 objects, this sticker will show up. Many levels have very high object counts for a variety of reasons. They range from poor optimization to visual details to effects.
 
 # 5: Misc. Features
 
 {{< img src="images/GDEmotes/Icons/x.png" class="emote">}} The red X deletes your level from existence. This cannot be undone.
 
-The :HelpButton: button directs you to the outdated GD Guide that inspired GDCS to exist and surpass it.
+The {{< img src="images/GDEmotes/Buttons/HelpButton.png" class="emote">}} button directs you to the outdated GD Guide that inspired GDCS to exist and surpass it.
 
 {{< img src="images/GDEmotes/Buttons/Files.png" class="emote">}} The File button lets you duplicate your level. This is perfect for backups.
 {{< img src="images/GDEmotes/Buttons/MoveToTop.png" class="emote">}} The white up arrow places the level you're making to the top of your created levels list.
@@ -102,6 +103,3 @@ Example: <cr>Hello level!</c>
 `cj` for Cyan (#00FFFF)
 `co` for Orange (#FF7F00)
 `cp` for Purple (#CC8899)
-
-## Credits
-Created by @Selena and @koma5

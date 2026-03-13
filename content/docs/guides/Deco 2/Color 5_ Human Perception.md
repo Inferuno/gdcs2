@@ -120,7 +120,7 @@ Changed the channel name: Color 5: Human Perception
 
 **Video:**
 
-{[< youtube P2r4Z5kbx7M start=478 >]}
+{{< youtube P2r4Z5kbx7M start=478 >}}
 
 
 
