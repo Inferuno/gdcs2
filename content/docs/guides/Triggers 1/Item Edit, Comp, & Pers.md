@@ -100,7 +100,7 @@ The modification options and ID types are the same as well, but the differences 
 - Greater than or equal to (>=) - I1 must be greater than or equal to I2.
 - Not equals (!=) - I1 must not equal I2.
 
-{{< youtube FSBUYABrU4w >}} >}}
+{{< youtube FSBUYABrU4w >}} 
 
 # 3: Persistent Item (Item Pers)
 
@@ -114,8 +114,8 @@ The checkboxes provide options for the Item ID:
 - Target All - targets every persistent item at once.
 - Reset - reset the Item ID’s value.
 
-{{< youtube Hwx1Q1-nGzI >}} >}}
+{{< youtube Hwx1Q1-nGzI >}} 
 
 **Video:**
-{{< youtube BT8PyW4iG0s >}} >}}
+{{< youtube BT8PyW4iG0s >}} 
 

@@ -82,7 +82,7 @@ When making assets, I like to make a few different types depending on how I’ll
 
 Here are some assets from my Emerald Realm part . After making the assets, especially the rocks, most of my time just went into exploring ways to combine them in the structures so they could look unique without actually having to be super original. This helped me cut my creating time significantly.
 
-{{< youtube lRBiEWxifsk >}} >}}
+{{< youtube lRBiEWxifsk >}} 
 
 {{< img src="https://lh3.googleusercontent.com/d/1HoVotmm-di7Jcsk_4Avjh1lo2MNEP42o" >}}
 

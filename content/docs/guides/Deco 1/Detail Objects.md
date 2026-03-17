@@ -22,7 +22,8 @@ Detail Objects are objects that usually don't have a hitbox. You can use them to
 
 Most detail objects can be found in these tabs.
 
-https://drive.google.com/file/d/1rQrXB8ob0zyXAQnXbM89itV8Z34_ybwb/view?usp=drive_link
+{{< img src="https://lh3.googleusercontent.com/d/1rQrXB8ob0zyXAQnXbM89itV8Z34_ybwb >}} 
+
 
 # 1: Types of Detail Objects
 

@@ -21,7 +21,7 @@ The **Reset Trigger** {{< img src="images/GDEmotes/Triggers/Reset.png" class="em
 
 The example below has a checkpoint and six coin collectables assigned to group ID `1`. Touching the reset trigger resets everything under that group ID.
 
-{{< youtube iBg8esgphGE >}} >}}
+{{< youtube iBg8esgphGE >}} 
 
 The Reset trigger also works on breakable blocks too.
 

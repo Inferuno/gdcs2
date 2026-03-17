@@ -42,11 +42,11 @@ To have a better understanding of what this actually means, take a look at these
 Chromaside by qalli
 SpeedTek by G4lvatron
 
-{{< youtube 096FwIbfIOE >}} >}}
+{{< youtube 096FwIbfIOE >}} 
 
-{{< youtube tEPKl-QUmNU >}} >}}
+{{< youtube tEPKl-QUmNU >}} 
 
-{{< youtube pzcpPkerDWI >}} >}}
+{{< youtube pzcpPkerDWI >}} 
 
 # 2: Player Control Trigger
 
@@ -62,5 +62,5 @@ Do not confuse this with {{< img src="images/GDEmotes/Triggers/GPOptions.png" cl
 
 {{< img src="https://lh3.googleusercontent.com/d/1CgKcsngUdn6lONfz4Kv8VPNA78qgjKdF" >}}
 
-{{< youtube QItXhkRg108 >}} >}}
+{{< youtube QItXhkRg108 >}} 
 

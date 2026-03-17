@@ -50,8 +50,8 @@ We can expand this idea a bit further and discuss movements. While default movem
 
 One benefit of classifying movements like this is you can play around and experiment with them more effectively. Many layouts feel distinct just because of how their creators experimented with movements. Here are a few examples of that.
 
-**Königstein layout ** by `Marwec`:  https://youtu.be/atW00xP32-4 >}} >}} >}} >}}
-**Salamander Dance** by `Ilrell`: https://youtu.be/cbp5H6wlW0k >}} >}} >}} >}}
+**Königstein layout ** by `Marwec`:  https://youtu.be/atW00xP32-4 >}}  
+**Salamander Dance** by `Ilrell`: https://youtu.be/cbp5H6wlW0k >}}  
 Just like in the prior part, a good balance of impacts is important here. Too many high-impact movements will feel repetitive and dull after a while; similarly, too few could leave the player bored. It’s best for you to find a good balance between these two extremes.
 
 **3: Rhythm and Flow State**
@@ -62,7 +62,7 @@ This is incredibly important for flow because rhythm naturally creates the patte
 
 **Rebix’s** part in `Overthinker` is a good example of this sort of rhythm. The part itself has many elements - such as the first three orb clicks, or the ball parts with slopes in them - that repeat in conjunction with the music. Note that most of the time, what’s repeating is the *click pattern* itself, not necessarily the visuals; this helps make the part less repetitive, something that also matters for the flow state.
 
-{{< youtube 98gHB1WYXas >}} >}}
+{{< youtube 98gHB1WYXas >}} 
 
 Keep in mind that with rhythm, the impact it’ll have will once again depend on the same factors as sync’s impact. Moreover, the higher the impact, the more variety you’ll need in between the rhythmic parts. Most players will be able to tolerate small deco changes or movements, but many will quickly get bored of clicking at the exact same speed over and over again.
 

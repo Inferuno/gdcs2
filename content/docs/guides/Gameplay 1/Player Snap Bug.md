@@ -87,7 +87,7 @@ Upside down gravity:
 
 **NOTE:** This setup above is highly FPS dependent, meaning the player will move forward on a larger distance on higher FPS than on lower FPS due to the fact that more FPS has more subframes. Tax Evasion by Skub uses a more stable but inconsistent setup that is not FPS dependent.
 
-{{< youtube oeIzV2SgZFY >}} >}}
+{{< youtube oeIzV2SgZFY >}} 
 
 The setup is shown below.
 

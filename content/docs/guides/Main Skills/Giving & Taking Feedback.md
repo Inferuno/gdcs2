@@ -53,4 +53,4 @@ Once you find where you'll ask for feedback, *knowing what to get feedback on is
 - <https://habr.com/ru/post/556326/>
 - <https://www.unisender.com/ru/blog/idei/fidbek-chto-eto-takoe-i-kak-davat-obratnuyu-svyaz/>
 
-**Video:** https://youtu.be/NKtJXrD5F6Y >}} >}} >}} >}}
+**Video:** https://youtu.be/NKtJXrD5F6Y >}}  

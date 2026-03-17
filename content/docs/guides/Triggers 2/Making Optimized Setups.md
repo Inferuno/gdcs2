@@ -121,7 +121,7 @@ This setup can calculate the value you need with all the precision you want, but
 
 You can notice the difference between both setups in the video below: the first solution gives the most accurate value, while the second gives the fastest answer.
 
-{{< youtube 5FIqgsJYeMw >}} >}}
+{{< youtube 5FIqgsJYeMw >}} 
 
 Level ID: `115004354`.
 

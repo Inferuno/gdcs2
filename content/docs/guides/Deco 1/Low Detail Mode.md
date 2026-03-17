@@ -47,7 +47,7 @@ While blending and opacity eat up a level’s performance, it wasn't a problem b
 
 Historically, lag started to become an issue once Update 2.0 came out with groups, animated objects, and more triggers such as the Move and Spawn Trigger. Minigame levels are the best example, as triggers go beyond editing colors, the risk of lag increases.
 
-These features snowballed to Updates 2.1 and 2.2 where players grew more concerned about lag, level performance, and optimizing details for effects and trigger setups to effectively create the vision they wanted. Additionally, with some mods allowing creators to bypass the object count limit, levels reached as high as [1 million objects](<https://youtu.be/Htg4aIoRcYw >}} >}} >}} si=hacIGUodFEURDHNe>).
+These features snowballed to Updates 2.1 and 2.2 where players grew more concerned about lag, level performance, and optimizing details for effects and trigger setups to effectively create the vision they wanted. Additionally, with some mods allowing creators to bypass the object count limit, levels reached as high as [1 million objects](<https://youtu.be/Htg4aIoRcYw >}}   si=hacIGUodFEURDHNe>).
 
 # 2: Low Detail Mode
 
@@ -71,7 +71,7 @@ Following that idea, sometimes you might want to give the players more customiza
 3. Normal with LDM ticked
 4. Min Mode with LDM ticked
 
-{{< youtube j_Hgp-k2twk >}} >}}
+{{< youtube j_Hgp-k2twk >}} 
 
 With 2.2’s upgrades in Item IDs, the amount of LDM customization has expanded.
 
@@ -140,7 +140,7 @@ With other object types that have both base and detail color channels, you can a
 
 As much as creators can use toggles for LDM, toggles can also be used for optimizing by removing unnecessary objects that are offscreen. Castlemania does this with its branching paths where any path the player avoids gets toggled off. As shown here, removing those toggles makes the level difficult to render in the editor and in-game.
 
-{{< youtube dhsYDtOrvw0 >}} >}}
+{{< youtube dhsYDtOrvw0 >}} 
 
 ## Miscellaneous Methods
 
@@ -178,4 +178,4 @@ Note that this works significantly better if you use a lot of Editor layers. Thi
 
 Here is an example of this process.
 
-{{< youtube NMwzuKoi3Nk >}} >}}
+{{< youtube NMwzuKoi3Nk >}} 
