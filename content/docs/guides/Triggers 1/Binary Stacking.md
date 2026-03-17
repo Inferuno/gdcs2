@@ -50,8 +50,7 @@ For example, take 22 again, but this time convert it back into a binary number.
 {{< img src="https://lh3.googleusercontent.com/d/1QJGhpapr9Y2r2-RnSa_CAjoBp_IGrtCf" >}}
 
 This is only a brief explanation. If you are still confused about how to convert from decimal to binary, https://discord.com/channels/414295025883545600/1085291975663689809 explains this in more detail. **This video may help too**. (You will only need to know how to use the subtraction method for this lesson.)
-https://www.youtube.com/watch?v=rsxT4FfRBaM
-
+{{< youtube rsxT4FfRBaM >}} 
 # 1: Move Logic
 
 This stacking method works on Move, Follow, Rotate, and HSV Pulse triggers (triggers that can **transform objects**). When these triggers stack, __their effects combine to make one singular effect__. What this means is that you can get *significantly* more efficient stacks without using nearly as many groups.

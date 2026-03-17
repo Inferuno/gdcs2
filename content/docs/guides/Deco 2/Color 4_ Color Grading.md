@@ -57,7 +57,7 @@ While most color symbolism depends on things like culture (as evidenced by Black
 
 APEIROPHOBIA by Ph4lip focuses on a very ominous and threatening mood, using dark and dull colors to increase the level’s immersion.
 
-{{< youtube p-BUROO_-z0 >}}
+{{< youtube p-BUROO_-z0 >}} >}}
 
 ## Finding Your Color Palette
 The most effective way to do this is by creating the decoration using its normal colors, then altering them later to match the mood you want to convey, through trial and error. You can also browse reference images based on your theme, and examine the color palettes that they use, utilizing them when making your level.
@@ -66,9 +66,9 @@ The first part in Postbluane, created by Deovise, invokes a very calm, yet adven
 
 Anarchy Road by Komatic5 enhances the destruction of the city by using red tints to invoke a more violent feel.
 
-{{< youtube QHe2vLYCvSQ >}}
+{{< youtube QHe2vLYCvSQ >}} >}}
 
-{{< youtube kY_iLItMdWw >}}
+{{< youtube kY_iLItMdWw >}} >}}
 
 One way to learn how different colors work together is by altering the color palette of an existing artwork. In the following example, I will use mine.
 
@@ -96,7 +96,7 @@ Pulses are generally used to show intensity. However, when sticking to a theme, 
 
 An example of mine shows strong pulses that don’t necessarily disrupt the mood of the level. To stick to a cold atmosphere, I stuck with pulses around the blue range, to allow the cold mood to maintain itself throughout the level.
 
-{{< youtube Njg8nLXN4-M >}}
+{{< youtube Njg8nLXN4-M >}} >}}
 
 ## Tools of the Trade: Edit Color Trigger
 When you open the **Edit Color** shader trigger, you will be greeted with this menu.

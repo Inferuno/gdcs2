@@ -31,9 +31,9 @@ If you manage to simulate this camera, you can upgrade the parallax in your leve
 
 In addition, you’ll notice that most gamemodes have fixed borders at the top and bottom, even the duals. However, only the robot and cube gamemodes are borderless. This will change in 2.2 once Free Fly Mode is introduced for all gamemodes. As of 2.1, there are two ways to set up the camera: with borders and without borders. We need this distinction because the camera’s modules will differ greatly.
 
-{{< youtube 8G_8F2tXYpw >}}
+{{< youtube 8G_8F2tXYpw >}} >}}
 
-{{< youtube fPXLGli6XGw >}}
+{{< youtube fPXLGli6XGw >}} >}}
 
 # 2: Camera Simulation with Borders
 

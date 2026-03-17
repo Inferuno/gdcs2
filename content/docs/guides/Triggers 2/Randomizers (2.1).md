@@ -78,8 +78,7 @@ The Target ID is the group you want to activate. Make sure each trigger has a di
 
 Noam's randomizer is the closest you can get to full randomization in GD. It's also fairly simple, and can be placed anywhere. However, just like the Collision Roulette, it needs player input to activate.
 
-Here's a video of the setup as well: https://youtu.be/tbzdZJQWaAc
-
+Here's a video of the setup as well: https://youtu.be/tbzdZJQWaAc >}} >}} >}} >}}
 # 4: Shake Trigger Randomizer
 
 This randomizer abuses an interaction between the shake trigger and dual mode in order to create randomness, and requires no player input.
@@ -100,6 +99,6 @@ This randomizer does not require any player input, and is fully random. However,
 
 # Sources
 
-- <https://youtu.be/LbPYygtpxJk>
-- <https://youtu.be/guOzs1aU_Us>
-- <https://youtu.be/tbzdZJQWaAc>
+- <https://youtu.be/LbPYygtpxJk >}} >}} >}} 
+- <https://youtu.be/guOzs1aU_Us >}} >}} >}} 
+- <https://youtu.be/tbzdZJQWaAc >}} >}} >}} 

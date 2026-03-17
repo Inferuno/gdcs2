@@ -23,7 +23,7 @@ The Stop trigger is the 4th trigger found in the trigger section in the editor. 
 
 To use the trigger, simply assign a Group ID to the trigger you want to stop. Then, enter that Group ID into the Stop trigger. Once it activates, that trigger will stop working.
 
-{{< youtube g67Lof-MmE4 >}}
+{{< youtube g67Lof-MmE4 >}} >}}
 
 As shown, the block stops following the player once the stop trigger is activated. The Stop trigger will always "stop" actions of the triggers it targets.
 
@@ -35,7 +35,7 @@ Pause and Resume are two new options in the Stop trigger. The Pause option acts 
 
 To use these options, place down a Stop trigger, go to {{< img src="images/GDEmotes/Buttons/EditObject.png" class="emote">}} Edit Object, and click on "Pause" or "Resume".
 
-{{< youtube aT4Zr-Ypc0k >}}
+{{< youtube aT4Zr-Ypc0k >}} >}}
 
 The Resume option does not have to target the same group as the original Pause option. As long as a trigger has been affected by a Pause, a Resume trigger can resume its actions.
 

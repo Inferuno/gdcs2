@@ -150,7 +150,7 @@ This method makes it easier to tell what’s finished which is good for feedback
 
 {{< img src="https://lh3.googleusercontent.com/d/1IbDgxH3QRiY6FbnoDDnmEpKZvXpcjJXV" >}}
 
-{{< youtube Za5W0WdmPz0 >}}
+{{< youtube Za5W0WdmPz0 >}} >}}
 
 Conversely, you can build **vertically** __ where everything is built simultaneously__. For example, you would make drafts for the blocks, background, and air deco before fleshing everything out at the same time. This method works well for complex work, as you can focus on the whole product before refining everything later. However, it can be worse for feedback as people often fail to identify when a part is finished with this method.
 
@@ -158,7 +158,7 @@ Here's an example from the second part in my level Anarchy Road, when the second
 
 {{< img src="https://lh3.googleusercontent.com/d/1uiV54Wa5JBFP1w8U4dr2UK5gSCU9lq0k" >}}
 
-{{< youtube tRXA8FqUCds >}}
+{{< youtube tRXA8FqUCds >}} >}}
 
 ## Cohesion
 
@@ -166,9 +166,9 @@ Regardless of if you build horizontally or vertically, all of your deco types �
 
 The level of **cohesion** in your work is __how much each deco element works with everything else__. When you have a cohesive level, nothing contrasts too much with everything else. It may be difficult to tell when something is cohesive, as it’s effectively an invisible thing - however, it is noticeable when something stands out in a bad way. You may not notice cohesion issues in NEWER horizons by Aimbotter2123, but you may feel like the backgrounds in Adrone's part in Scattered Faith are drowned out by the flashy block designs.
 
-{{< youtube h9Q84QVkKYk >}}
+{{< youtube h9Q84QVkKYk >}} >}}
 
-{{< youtube ufrg38442gw >}}
+{{< youtube ufrg38442gw >}} >}}
 
 
-**Video:** https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N
+**Video:** https://youtu.be/3ofZI82lKQ8 >}} >}} >}} si=a5bXL1ilq24c9C_N

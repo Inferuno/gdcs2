@@ -57,7 +57,7 @@ The Ship is probably the most complicated gamemode for the player to use, requir
 
 This gamemode is typically quite floaty, but you can make good use of it in fast & snappy parts thanks to orbs, giving it an edge over a gamemode like the Robot. This also means it has countless ways to be used; you can create simple straight flies, tight curved sections like the one in Astral Divinity, and so on.
 
-{{< youtube Wt76QZqF-os >}}
+{{< youtube Wt76QZqF-os >}} >}}
 
 **Pros & Cons**
 - Uses holds and releases in the most varied ways
@@ -241,7 +241,7 @@ The Spider is the most powerful gamemode for emphasizing notes, and is successfu
 
 Like the Cube, holding after of a black orb will perform a click as soon as you land (though not with a blue orb). This allows you to make clicks much more consistent as well as control the flow of the part much easier. In addition, clicking into a pad will instantly activate it, letting you  bounce, change gravity, or do whatever you want after a click. This constant up and down combined with bounces and orbs is extremely satisfying; you can see an example of it in this part of TROLLMACHINE.
 
-{{< youtube VSw1c3L8szo >}}
+{{< youtube VSw1c3L8szo >}} >}}
 
 ** **
 
@@ -252,7 +252,7 @@ This is the Spider part in my level, rounding out this part of the drop. This sp
 ## Swing
 Swing is widely considered as the worst gamemode due to how badly creators use it. They tend to slap it on top of Ship gameplay without considering what the Swing does best: big arcs and curves. Swing uses big curves best, so make sure you take advantage of that. Another important part of Swing is how long it takes for you to actually *see* your input. You can either you can use the gamemode’s unresponsiveness to your advantage (like BUTTON MASHER by Viprin & More), or you can somewhat remedy it using the gravity trigger to increase the player’s gravity.
 
-{{< youtube 7b6NTNIa2Lg >}}
+{{< youtube 7b6NTNIa2Lg >}} >}}
 
 You can use orbs in the Swing to help with the responsiveness problem as well. Clicking right after a blue orb will act as a boost of momentum, kind of like the Ship’s interaction with the blue orb. Other interactions are fairly intuitive, but for some reason only dash orbs will flip your gravity after using them. Thus, the green dash orb will flip your gravity and the purple dash orb won’t. Using pads with the Swing can be interesting too, as they force you to be a specific gravity before landing on them.
 
@@ -271,7 +271,7 @@ The part below is a video of me using multiple gamemodes in a single part of the
 
 Lastly, here’s a video of the entire level if you’re interested in seeing how it all turned out.
 
-{{< youtube FGAftuAcquM >}}
+{{< youtube FGAftuAcquM >}} >}}
 
-**Video:** https://youtu.be/Se2KWB1XgfE?si=tkpneccEJD-VfMcv
+**Video:** https://youtu.be/Se2KWB1XgfE >}} >}} >}} si=tkpneccEJD-VfMcv
 

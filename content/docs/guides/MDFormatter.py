@@ -18,12 +18,14 @@ def format_media(lines):
     for img1 in range(len(lines)):
         html = lines[img1]
         html2 = re.sub(r'<div ?(style="width: fit-content; height: fit-content")?><iframe src=https://drive.google.com/file/d/', '{{< img src="https://lh3.googleusercontent.com/d/', html)
-        html2 = re.sub(r'\/preview\?usp=drivesdk><\/iframe><\/div>', '" >}}', html2)
+        html2 = re.sub(r'(/pre)?view(\?usp=drivesdk)?></iframe></div>', '" >}}', html2)
 
         html2 = re.sub(r'> • ', '- ', html2)
 
-        html2 = re.sub(r'(?<=.be/[a-zA-Z0-9\-\_]{11})\n', ' >}}', html2)
-        html2 = re.sub(r'^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube(?:-nocookie)?\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|live\/|v\/)?)', '{{< youtube ', html2)
+        html2 = re.sub(r'(?<=.be/[a-zA-Z0-9\-\_]{11})\W', ' >}} ', html2)
+        html2 = re.sub(r'^((?:https?:)?//)?((?:www|m)\.)?((?:youtube(?:-nocookie)?\.com|youtu.be))(/(?:[\w\-]+\?v=|embed/|live/|v/)?)', '{{< youtube ', html2)
+        html2 = re.sub(r'(?<=youtube [a-zA-Z0-9\-\_]{11})\W', ' >}} ', html2)
+
 
         relines.append(html2)
 

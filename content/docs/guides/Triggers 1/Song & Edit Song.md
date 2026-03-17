@@ -110,5 +110,5 @@ On the bottom right, you can select different modes for proximity. Each button s
 
 This video demonstrates a good usage of the song and song edit trigger:
 
-{{< youtube tADSk7emWbU >}}
+{{< youtube tADSk7emWbU >}} >}}
 

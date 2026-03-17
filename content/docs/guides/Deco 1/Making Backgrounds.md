@@ -80,7 +80,7 @@ A background and foreground can work spectacularly together to create depth, an 
 
 This is an easy way to create depth in your part. The basic principle of **parallax** is this: __As something moves further into the background, it will move slower on the screen__. For example, a mountain deep in the background should appear to hardly move on the screen at all, while the foreground moves backwards at a faster rate.
 
-https://www.youtube.com/watch?v=2z4OTRFuLP8 – This video demonstrates how parallax works intuitively.
+{{< youtube 2z4OTRFuLP8 >}} – This video demonstrates how parallax works intuitively.
 
 To implement parallax in GD, get some object to follow player X and player Y using a move trigger. Then, use the follow trigger on the background layers and set the trigger’s follow group to the group of the aforementioned object. To tweak the speed of the background layer, you can vary the “XMod” and “YMod” properties on the trigger.
 

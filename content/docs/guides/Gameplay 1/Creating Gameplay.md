@@ -136,5 +136,5 @@ Gameplay is about having fun, visualizing what you have in your head, and puttin
 
 With that said, have fun, and happy layouting!
 
-**Video:** https://youtu.be/Se2KWB1XgfE?si=tkpneccEJD-VfMcv
+**Video:** https://youtu.be/Se2KWB1XgfE >}} >}} >}} si=tkpneccEJD-VfMcv
 

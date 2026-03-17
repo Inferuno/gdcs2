@@ -48,4 +48,4 @@ Note that this works significantly better if you use a lot of Editor layers. Thi
 
 Here is an example of this process. This video shows all of the efficiency techniques, as well as the object reduction algorithm.
 
-{{< youtube NMwzuKoi3Nk >}}
+{{< youtube NMwzuKoi3Nk >}} >}}

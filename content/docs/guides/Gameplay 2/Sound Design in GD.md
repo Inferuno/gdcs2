@@ -24,9 +24,9 @@ Well, to put it simply, **sound design** is __the art of making sounds for any k
 
 There are two ways of incorporating your own sounds for your GD Level:
 
-{{< youtube p-BUROO_-z0 >}}
+{{< youtube p-BUROO_-z0 >}} >}}
 
-{{< youtube tRXA8FqUCds >}}
+{{< youtube tRXA8FqUCds >}} >}}
 
 # 1: Making Custom Sounds
 
