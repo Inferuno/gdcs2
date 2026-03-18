@@ -11,14 +11,14 @@
 }}
 
 {{- with .Parent }}
-  {{- partial "inline/link-card.html" $opts }}
+  {{- template "link-card-body" $opts }}
 {{- else }}
   <div class="card-nav d-flex flex-column flex-sm-row">
-    {{- partial "inline/link-card.html" $opts }}
+    {{- template "link-card-body" $opts }}
   </div>
 {{- end }}
 
-{{- define "_partials/inline/link-card.html" }}
+{{- define "link-card-body" }}
   <div class="card bg-dark text-white text-end w-100{{ with .class}} {{ . }}{{ end }} hover-scale-sm shadow-sm">
     {{- $remoteImage := resources.GetRemote .image -}}
       {{- with $remoteImage -}}
