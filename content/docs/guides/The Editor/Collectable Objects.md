@@ -40,7 +40,7 @@ Collectable objects can be set to give the player points, [toggle](/docs/guides/
 
 {{< youtube dMBGEMf5nds >}}
 
-**Particle:** Lets you customize the particles created when the object is collected. You must create a particle with the [Particle Editor], give that object a group, and enter that group into this field. Multiple particles can be activated at once.
+**Particle:** Lets you customize the particles created when the object is collected. You must create a particle with the [Particle Editor](/docs/guides/deco-1/particle-system/), give that object a group, and enter that group into this field. Multiple particles can be activated at once.
 
 **No Anim:** If you enable this option, the collectable will turn off its "floaty" animation, making it stay completely still.
 
