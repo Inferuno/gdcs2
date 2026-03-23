@@ -105,7 +105,9 @@ Committing is step one when making any pull request, and doing so is quite simpl
 
 Upon opening up GitHub Desktop and you should see your current selected repository. Make sure gdcs2 is selected as your current repository and go to the changes tab if you aren't already there. You should see a list of the files that you have modified in the bar on the left side. That should look like this:
 
+{{< img-grid >}}
 {{< img src="https://lh3.googleusercontent.com/d/1SbAmc83YVGUPbya6MRRJKJ0enJ91ATGW" >}}
+{{< /img-grid >}}
 
 If you do not see your changes, you may need fetch the origin. (Which is basically just GitHub Desktops version of a refresh.)
 To commit the changes:

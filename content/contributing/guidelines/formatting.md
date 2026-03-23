@@ -52,14 +52,18 @@ We'll now cover what each of these attributes mean.
 ## Title
 It's the title that shows on the website.
 
+{{< img-grid >}}
 {{< img src="https://lh3.googleusercontent.com/d/1Pu9IgFnAXArdpWmMhPWlzNgdUP1L7InU" >}}
+{{< /img-grid >}}
 
 If you want to display a guide emote alongside the title, you should go to the location `assets/images/GDEmotes/CustomGuideIcons` of the repository, and save the emote in a corresponding folder. The name of the file should be the `title` set on the frontmatter, written in [kebab-case](https://www.theserverside.com/definition/Kebab-case). For instance, the emote of the Using Gamemodes guide is stored in `assets/images/GDEmotes/CustomGuideIcons/BasicGameplay/using-gamemodes.png`
 
 ## Weight
 The `weight` of the page determines its order: lower weight means a page shows up first. For example, Data Storage has a weight of 6140, Making Optimized Setups has a weight of 6150, and Control Schemes has a weight of 6160.
 
+{{< img-grid >}}
 {{< img src="https://lh3.googleusercontent.com/d/1Q05w4BJYGJi_kdvP-YczFojs8pr7rgfz" >}}
+{{< /img-grid >}}
 
 The "Next" and "Previous" buttons also use page weight to link between pages.
 
@@ -74,7 +78,7 @@ The date of when the guide is officially ***published*** on the site. It must fo
 This parameter is mainly used to display the most recent guides on the frontpage. If a guide has been set to a future date, it won't be published on the site until that day arrives, even if `draft` is set to `false`.
 
 ## Math
-Whether to enable math formatting in this guide. If `true`, you'll be able to use MathJax for richer math syntax.
+Whether to enable math formatting in this guide. If `true`, you'll be able to use MathJax for richer math syntax. It is an optional attribute, set to `false` by default.
 
 ## SEO
 
@@ -87,28 +91,28 @@ The `seo` section controls how the page appears in search engines and when share
 
 ## Authors & Contributors
 
-The property `contributors` receives a list of all [contributors](/contributors/) who have helped shape the guide in some way.
+The property `contributors` receives a list of all [contributors](/contributors/) who have helped shape the guide in some way. This can encompass writing segments, researching, proofreading, adding examples, and so on.
 
+The list of contributors can be found in [data/contributors.yaml](https://github.com/komatic5/gdcs2/blob/main/data/contributors.yaml). The file stores for each contributor:
 
+- `ID`: Their **discord** user ID.
+- `username`: Their **discord** username.
+- `preferredName`: If the contributor wants to use on the site a name that's not their discord username, they can add that new name on this attribute.
+- `usePreferred`: If set to `true`, the `preferredName` attribute will be used for display. Otherwise, the discord `username` will be used on all pages instead.
+- `safeUsername`: Transforms the username attribute to be url-safe. You don't have to fill this attribute.
 
 The property `authors` is a subset of `contributors`. It specifies which contributors are the **main writers** of the guide, who did the main researching, drafting, and writing tasks. All contributors will be credited on the final section of the guide, and guide authors will be distinguished with a small batch.
 
-(img)
+{{< img-grid >}}
+{{< img src="https://lh3.googleusercontent.com/d/13ZxzcyAO13XCe9EjIfIQbnA3djRG9Vp5" >}}
+{{< /img-grid >}}
+
+To fill the authors and contributors attributes in the frontmatter, **you must register the username of the contributors**, not the ID nor preferredUsername. If a new contributor not in [data/contributors.yaml](https://github.com/komatic5/gdcs2/blob/main/data/contributors.yaml) needs to be credited on a guide, their attributes should be added to that file.
+
+Do note that filling these is optional, but it is recommended to include them so everyone's work gets recognized directly on the site. Either way, all contributions get registered on GitHub and show up on the *Recent Page Edits* section of the [homepage](/).
 
 {{< callout context="caution" title="Note: adding contributors through Decap is not currently supported. If you want to add or change the attributes of a contributor, do it yourself through localhost or ask a contributor in the discord server to do it." icon="outline/info-circle" >}}
 {{< /callout >}}
-
-A new contributors.yaml file holds all guide contributors. It stores for each contributor: their discord user ID, their discord username, a displayname, and an boolean useDisplay attribute.
-
-If a contributor wants to use on the page a name that's not their discord username, they must add that new name on the displayname attribute, and then set useDisplay to true. That way, the displayname will be updated on all pages of the website (except for the contributor url). If an user writes /contributors/displayname on the url, they will be redirected to /contributors/username, which is the place where the contributor's name and guides are at. On the other hand, if useDisplay is set to false, the discord username will be used on all pages instead.
-
-For this to work properly, the contributors property of a guide's frontmatter must list the username of contributors, not their displayname. If a new contributor not in the contributors.yaml file is credited on a guide, their attributes should also be added to that file.
-
-If in a given frontmatter, a name is not found in data/contributors.yaml, the script will throw an error, requesting for changes and giving instructions on how to do so.
-If a name is recognized as a valid username, but not URL/folder safe, it will be automatically converted to the safe version.
-If a name is recognized as a valid preferredname but not username, it will be automatically converted to the safe username version.
-if a name is recognized as a valid and safe username, nothing will change.
-This change gives more flexibility to contributors changing the frontmatter, and it will tell them what to do if something goes wrong. It also prevents an issue regarding the creation of certain files, as some contributor usernames may not be valid folder and file names in certain operating systems.
 
 # 2: Body Syntax
 
