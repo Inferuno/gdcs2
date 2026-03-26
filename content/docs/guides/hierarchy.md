@@ -44,6 +44,8 @@ While it's important to know what elements make up deco, it's equally (or even m
 ## Contrast
 
 Put simply, this is the difference between two objects. Contrast is the reason why you can see, distinguish objects from each other, and so on; so knowing how to manipulate it is crucial for deco.
+
+
 For decoration, these differences will be based on the elements of deco described above. A red object differs from a blue object because of color, while a circle contrasts with a square because of its shape. Objects can have multiple types of contrast, which is often how you make more dynamic and interesting visuals.
 The image below shows an example of contrast at work.
 
@@ -61,12 +63,16 @@ Knowing how to use contrast effectively can help you make decoration as good as 
 ## Visual Weight
 
 What contrasts more: a white square against a black background, or a black square against a white background? This question reveals an important fact: not all contrast is created equal. Contrasting elements such as color, will have a larger impact on your deco than contrasting others, such as texture.
+
+
 This idea is the basis of **visual weight** – basically, **how much an object draws attention to itself**. Objects with high visual weight will pull your eyes to them more, the same way heavy objects (like your mom) use more force when moving.
+
+
 Keep in mind that **visual weight is all relative**. If an object draws lots of attention to itself, it will only feel that way because other objects in its surroundings don't draw as much attention to themselves.
 
 `(Need an image example here)`
 
-Since visual weight is based on the elements of deco, each one provides a way to increase visual weight.
+Since visual weight is based on the elements of deco, each one provides a way to increase visual weight. Each of these is described in order from most important to least.
 
 `(Each of these needs an image example)`
 
