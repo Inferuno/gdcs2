@@ -1,13 +1,13 @@
 ---
-title: "Perspective 3 (Using Planes)"
-weight: 8220
+title: Perspective 3 (Using Planes)
 date: 2024-05-31T00:00:00.000Z
+weight: 8220
 authors:
-  - "komatic5"
+  - komatic5
 contributors:
-  - "komatic5"
-  - "sparktwee"
-  - "vayulenagd"
+  - komatic5
+  - sparktwee
+  - vayulenagd
 draft: false
 ---
 
@@ -19,9 +19,11 @@ draft: false
 {{< /callout >}}
 
 ** **
-At this point, you should be comfortable with basic perspective uses. However, once you make something more complex than just basic shapes, it becomes crucial to know how to speed up your workflow. This is where perspective tools come into play. All of these tools are useful for a more advanced understanding of perspective, like the type used to make complex objects shown in this image from Scott Robertson. Even if you don’t wish to make 3D stuff in the future, you can still benefit from thinking of shapes in a more advanced way.
+At this point, you should be comfortable with basic perspective uses. However, once you make something more complex than just basic shapes, it becomes crucial to know how to speed up your workflow.
 
-None
+This is where perspective tools come into play. All of these tools are useful for a more advanced understanding of perspective, like the type used to make complex objects shown in this image from Scott Robertson. Even if you don’t wish to make 3D stuff in the future, you can still benefit from thinking of shapes in a more advanced way.
+
+{{< img src="https://lh3.googleusercontent.com/d/10GNRXcR8jGUrhiIVDW9e47atwWTknz6i" >}}
 
 For all of these operations, please refer back to the [Creating Decoration guide](/docs/guides/deco-1/creating-decoration/) and use multiple editor layers to organize yourself and keep track of what you’re doing. Otherwise, this can get very messy. Additionally, if you’re struggling with executing the later techniques here, go back and practice on the earlier techniques more. This is crucial because they all build on top of each other.
 
@@ -41,7 +43,7 @@ To divide a rectangle into two, do the following:
 1. Make two lines which connect the diagonal corners of the rectangle. This will mark the center point of the rectangle.
 2. Create a new line inside the plane which goes through the center point and divides the rectangle into two new ones, both in perspective. This line can be horizontal or vertical, depending on what you need.
 
-{{< img src="https://lh3.googleusercontent.com/d/1mzOdSmQuf38A4wqoOQccWmWSmLdKCC6y" >}}
+{{< youtube seIrrXfIpmA >}}
 
 To multiply a rectangle, do the following:
 
@@ -50,7 +52,7 @@ To multiply a rectangle, do the following:
 3. Make a line which extends from the corner of the rectangle, through where the edge of the rectangle intersects with the center line. Extend this line until it goes past the other rectangle line (where it’s extended to the VP). Repeat this with the other corner.
 4. Make a line connecting the points formed by these new lines.
 
-{{< img src="https://lh3.googleusercontent.com/d/1ck5-MXn6LTa10_cVZXrvEEUTSGfbjIDz" >}}
+{{< youtube 0oeWehyCzjw >}}
 
 ## Dividing Planes into Odd-Numbered Segments
 Multiplying planes an odd number of times is pretty easy; you can just repeat the same multiplication technique multiple times. However, dividing a plane into odd-numbered segments can be much trickier. This technique helps with that process.
@@ -60,7 +62,7 @@ Multiplying planes an odd number of times is pretty easy; you can just repeat th
 3. Make lines which connect from the same VP through the points you just created.
 4. Create points on the original plane which mark where the lines you just created intersect with it. Extend these points upwards to divide your plane into multiple parts.
 
-{{< img src="https://lh3.googleusercontent.com/d/1Rp9RaHDxBaHyfpr98WY07-YejJZ0nygT" >}}
+{{< youtube kZTDBekl3_0 >}}
 
 # 2: Mirroring Planes
 
@@ -73,7 +75,7 @@ Mirroring planes is an operation with a lot of uses. If you’re trying to make 
 3. Mirror the furthest lines from the mirror plane by using Step 3 of the rectangle multiplication technique. Here, the center line in question is simply where the center line intersects with the mirror plane.
 4. Mirror the closest lines by using the multiplication technique. Connect all the lines accordingly.
 
-{{< img src="https://lh3.googleusercontent.com/d/1e2Wn8YDVbuLx_AGo-1B1ZxNCjxmiL0_k" >}}
+{{< youtube yyo4kQ-Zws8 >}}
 
 This works vertically as well, as you can expect. Think of that scenario in the same way as rotating the original constructions shown in the video.
 
@@ -84,7 +86,7 @@ Here, the plane you’re mirroring across is parallel to your rectangle, instead
 1. Set up your rectangle and place your mirror plane below it. Use steps 1-3 of the multiplication technique to mirror the first line in the front.
 2. Use your perspective grid to copy the rest of the lines accordingly. You can copy a perspective grid from the ID `97223198` for now, as they’ll be covered in more detail in the next guide.
 
-{{< img src="https://lh3.googleusercontent.com/d/1IC5RA1V4oKa946A1y9Fs8jdNAofEAXcU" >}}
+{{< youtube MBi0Cb1pEfs >}}
 
 ## Mirroring Planes Tilted on One Axis
 
@@ -95,7 +97,7 @@ Here, the mirror plane is tilted on one axis. This makes the construction a bit 
 3. Create a rectangle that shares a corner with B (with the help of your perspective grid), and use the multiplication technique to copy B across the mirror plane. We’ll call this new, mirrored point C.
 4. Draw a new line from A to the new point C. This copies the angle of your tilted plane in perspective. Then, finish the drawing by using your perspective grid to determine where the other points will lie, and connect them accordingly.
 
-{{< img src="https://lh3.googleusercontent.com/d/1RBbsT3ZzT64-piNY_0jLOXMY_whA2xji" >}}
+{{< youtube PBwItK1hKI4 >}}
 
 ## Mirroring Planes Tilted on Two Axes
 
@@ -107,7 +109,7 @@ Here your mirror plane is tilted at an angle, but your rectangle is also rotated
 4. Extend your rectangle’s bottom line (where it touches the ground) until it intersects with the mirror plane. Then, connect this second intersection point with the mirrored bottom corner. Extend this line outwards until it’s long enough, once again using the perspective grid to help you.
 5. Repeat Step 4 with the top line of your rectangle, mirroring it across to the other side. Then, connect the open edges and you should have mirrored your tilted, rotated rectangle.
 
-{{< img src="https://lh3.googleusercontent.com/d/1HqMYVjLKExteMG8v-J-KcbdOwzPJQtyN" >}}
+{{< youtube wMshmxiz_M8 >}}
 
 # 3: Mirroring Curves
 
@@ -125,7 +127,7 @@ To start, define the plane for your 2D curve. Multiply this plane using the rect
 - Then, draw a new line connecting the bottom of your center line to the other edge of your horizontal line. Draw another horizontal line which goes through the point you wish to mirror, until it intersects with this new diagonal line. You have transferred the point now.
 - **Technique 4:** Choose which point you’re going to mirror. Draw a vertical line and a horizontal line through it to define a rectangle (so your point is now a corner of the rectangle). Then, duplicate this rectangle so you transfer the point accordingly.
 
-{{< img src="https://lh3.googleusercontent.com/d/1WOTU4L9bR7Y3ioq1DoffAmU5_n2gfNIl" >}}
+{{< youtube xTLKTCDNT3Q >}}
 
 Any of these techniques can be mixed and matched to transfer points across planes. I recommend you choose the techniques which help you efficiently copy points without using too much effort for that scenario. You don’t need to use every technique here, but it’s useful to know all of them to use as necessary.
 
@@ -138,19 +140,19 @@ This lets you mirror curves when they’re placed on tilted planes, just like th
 4. Draw a vertical line from the centerline of your tilted plane upwards to the curve. Transfer this to your mirrored plane. Then, repeat this with a horizontal line on your tilted plane.
 5. You should now have enough points to freehand the mirrored curve fairly well.
 
-{{< img src="https://lh3.googleusercontent.com/d/1CLBRCIXlTktpdw_UkK-4Kqh56-9AoRks" >}}
+{{< youtube XfCeMYnbMCo >}}
 
 ## Mirroring 3D Curves
 A 3D curve/2-Curve is created by making a 2D curve with a horizontal plane, a second 2D curve with a vertical plane, and extending essential points of these curves outwards until they intersect. You can then create a new curve this way, which is useful for very complex forms like those you’ll see in [Perspective 5]().
 
-{{< img src="https://lh3.googleusercontent.com/d/1GLYsIFB8NHrIh1gu9eoX2YpWrEGCOixa" >}}
+{{< youtube eX5l5DMBhek >}}
 
 Once you’ve built a 3D curve, follow these instructions to mirror it across a plane.
 1. Mirror the starting point of your curve by creating a rectangle between the start of your 3D curve, your horizontal curve, and your vertical curve. Duplicate this rectangle to mirror this point.
 2. Repeat this process for the other points on the curve. I recommend mirroring more points when you start out, so you can be more confident in the construction.
 3. Connect the points together and make your mirrored curve. Then, use the bottom corners of your mirrored rectangles to mirror the horizontal curve as well.
 
-{{< img src="https://lh3.googleusercontent.com/d/1ZT2B9h_UPrCX9Z3aVy4BUDgIU-cuGLNc" >}}
+{{< youtube 8KJHMrK-9zg >}}
 
 # Sources
 - Scott Robertson: How to Draw, Chapters 3 & 5
