@@ -9,7 +9,7 @@
     "url": "https://github.com/thuliteio/doks.git"
   },
   "scripts": {
-    "predev": "node scripts/prepare-content.js",
+    "predev": "node scripts/prepare-content.js && node scripts/copy-css.js",
     "create": "hugo new",
     "dev": "hugo server --disableFastRender --noHTTPCache",
     "format": "prettier **/** -w -c",

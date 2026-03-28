@@ -1,0 +1,21 @@
+:root {
+  --sl-color-white: hsl(224, 10%, 10%) !important;
+  --sl-color-gray-1: hsl(224, 14%, 16%) !important;
+  --sl-color-gray-6: hsl(224, 20%, 94%) !important;
+  --sl-color-gray-7: hsl(224, 19%, 97%) !important;
+  --sl-color-black: hsl(0, 0%, 100%) !important;
+  --sl-color-bg-inline-code: hsl(224, 20%, 94%) !important;
+  --sl-color-text: #1a1a1a !important;
+}
+
+pre {
+  background: var(--sl-color-gray-6) !important;
+  padding: 12px;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+code[class*="language-"] {
+  background-color: var(--sl-color-gray-6) !important;
+  color: #1a1a1a !important;
+}

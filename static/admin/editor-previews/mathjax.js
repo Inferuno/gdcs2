@@ -2,6 +2,7 @@
 import Markdown from 'https://esm.sh/react-markdown@9?bundle'
 import remarkMath from 'https://esm.sh/remark-math@6?bundle'
 import rehypeMathjax from 'https://esm.sh/rehype-mathjax@5?bundle'
+
 import collections from '/admin/collections.js'
 
 const { h, createClass } = window;
@@ -11,6 +12,7 @@ const PostPreview = createClass({
     const body = this.props.entry.getIn(['data', 'body']) || "";
 
     return h('div', {
+      className: 'content td-content',
       style: { padding: '20px', lineHeight: '1.6' }
     },
       h(Markdown, {

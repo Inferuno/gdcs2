@@ -5,3 +5,4 @@ content-test
 node_modules
 public
 resources
+static/admin/main.css
