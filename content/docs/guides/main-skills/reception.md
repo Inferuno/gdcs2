@@ -155,8 +155,6 @@ If performance is below set expectations, that results in a letdown. Let’s see
 
 ## Overhype
 
-{{< img src="https://lh3.googleusercontent.com/d/1ZmH96ZL-Q-uryvJnfMcuS8CkCTfqEt3P" >}}
-
 > LET ME TELL YOU ABOUT MY UPCOMING TOP 1 MASTERPIECE THAT IS GUARANTEED TO HAVE A MYTHIC RATING BECAUSE I AM GOING TO MAKE THE BEST LEVEL IN EXISTENCE. YOU ALL WILL BOW DOWN TO ME BECAUSE UNDER 40K OBJECTS, I AM GONNA BLOW… YOUR… MIND!
 >
 > I WILL PERSONALLY VERIFY THIS LEVEL ON MOBILE, AND ON STREAM. IT WILL BE A LEGENDARY MASTERPIECE OF A STREAM WHERE THOUSANDS OF VIEWERS WILL SHOW UP TO SEE HISTORY BEING MADE. IF YOU LIKE WHAT YOU’RE READING, SHOW YOUR APPRECIATION BY SUBSCRIBING TO MY CHANNEL, *OR ELSE…*
@@ -183,7 +181,7 @@ While Rob gets to finalize the rate of a level, that doesn’t mean the communit
 
 In the case of Lilas by ILRELL, RNBW, and Oras, it was mislabeled as a 6 star level when it should have received a higher difficulty. As a result, players who expected 6-star gameplay ended up disappointed and annoyed because it drastically clashed with their expectations.
 
-{{< youtube "09jJq5shei8" >}}
+{{< youtube 09jJq5shei8 >}}
 
 Another case where difficulty misclassification is prevalent is when it comes to 1-star Auto rated levels that are not actually auto. The typical expectation is that auto levels can be watched without making a single input; even if you did, that is usually for a coin route. These levels often get dislike bombed, receiving severely negative reception. With this in mind, especially when the rating system is mostly beyond the creator’s control, it does make one wonder if reception boils down to luck:
 
@@ -195,7 +193,7 @@ To an extent that’s true. While the performance vs expectation equation provid
 
 ## iSpyWithMyLittleEye by Voxicat
 
-{{< youtube "7JLQ7pI2ntY" >}}
+{{< youtube 7JLQ7pI2ntY >}}
 
 On April 7th, 2023, after about one month of creating mostly for fun, Voxicat released a level that has awed the eyes of a large portion of the GD community: iSpyWithMyLittleEye. Looking at the level itself, let’s analyze its marketing mix:
 
@@ -217,15 +215,13 @@ To say that iSpy blew up big time back in 2023 would be an understatement. While
 
 ## LIMEADE by AudieoVisual
 
-{{< youtube "HtNq6sWJavE" >}}
+{{< youtube HtNq6sWJavE >}}
 
 July 20th, 2024 marked the release of a level that was fitting for the summer season: LIMEADE. Within a single day, it received a Viprin showcase, 1.2k downloads, an epic rating, and a daily. Needless to say, its reception was meteoric. Let’s analyze its marketing mix:
 
 1. **Product:** This is aimed to be a reiteration of another existing level called Lemonade by Robotronx. Due to the song being such a bop for Audieo, he wanted to build using LIMEADE as the theme.
 
-{{< youtube "Tns-PzgD3Cw" >}}
-
-
+{{< youtube Tns-PzgD3Cw >}}
 
 2. **Promotion:** While iSpy was built in secrecy, LIMEADE heavily used pre-promotion through public youtube streaming and Twitter. Audieo regularly made building progress videos for this level, and the live chat viewers gave their inputs as the level was made.
 3. **Price:** This level is an 8-star through the normal route. However, going for the coin route leads to the SUOM chamber where inputs get finicky.
