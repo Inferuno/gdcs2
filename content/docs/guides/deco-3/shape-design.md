@@ -2,7 +2,7 @@
 title: Shape Design
 weight: 110020
 date: null
-description: "Types of angles & shapes; BMS; relating shapes to colors; pleasing shapes; applying evenness & hierarchy to shapes; simplicity; detail placement & importance"
+description: Types of angles & shapes; BMS; relating shapes to colors; pleasing shapes; applying evenness & hierarchy to shapes; simplicity; detail placement & importance
 seo:
   title: null
   description: null
