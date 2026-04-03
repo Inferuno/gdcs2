@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Light 4 (Reflections)
 date: 2026-03-27T00:00:00.000Z
 weight: 8090
@@ -7,7 +8,9 @@ authors:
   - sethlai
 contributors:
   - sethlai
-draft: false
+tags:
+  - Grade 2
+  - Light & Color
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 

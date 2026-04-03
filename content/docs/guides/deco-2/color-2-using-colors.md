@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Color 2 (Using Colors)
 date: 2023-11-30T00:00:00.000Z
 weight: 8020
@@ -8,7 +9,9 @@ authors:
 contributors:
   - tv_box
   - kde
-draft: false
+tags:
+  - Grade 2
+  - Light & Color
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 

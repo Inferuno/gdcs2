@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Color 3 (Color Schemes)
 weight: 8030
 date: 2023-11-30T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - etherail
   - skytriz
-draft: false
+tags:
+  - Grade 2
+  - Light & Color
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

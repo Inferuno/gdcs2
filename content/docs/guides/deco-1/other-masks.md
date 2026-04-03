@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Other Masks
 date: 2023-10-13T00:00:00.000Z
 weight: 5170
@@ -7,7 +8,9 @@ authors:
   - unknown
 contributors:
   - unknown
-draft: false
+tags:
+  - Grade 1
+  - Visual Effects
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

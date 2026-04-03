@@ -1,14 +1,17 @@
 ---
+draft: true
 title: Mood & Atmosphere
 weight: 110020
 date: null
 description: Explains specific ways to apply things like composition, lighting, color, and our aforementioned theories to influence the mood / atmosphere of your decoration.
+tags:
+  - Grade 3
+  - Design Applications
 seo:
   title: null
   description: null
   canonical: ""
   noindex: false
-draft: true
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

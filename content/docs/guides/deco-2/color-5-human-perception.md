@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Color 5 (Human Perception)
 date: 2024-05-31T00:00:00.000Z
 weight: 8050
@@ -8,7 +9,9 @@ authors:
 contributors:
   - etherail
   - skytriz
-draft: false
+tags:
+  - Grade 2
+  - Light & Color
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 

@@ -1,6 +1,7 @@
 ---
+draft: false
 title: Fill 2
-weight: 5050
+weight: 5124
 date: 2023-03-10T00:00:00.000Z
 description: Once you've made the outline of a shape, you need to fill it in. This guide will explain how you can fill in shapes using gradients and glow.
 authors:
@@ -10,7 +11,9 @@ contributors:
   - artaire
   - thunderbat
   - graylasagna
-draft: false
+tags:
+  - Grade 1
+  - Deco Skills
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

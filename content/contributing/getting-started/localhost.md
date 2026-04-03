@@ -2,7 +2,7 @@
 draft: false
 title: Localhost
 weight: 300
-date: 2026-03-01
+date: 2026-03-01T00:00:00.000Z
 description: If Decap isn't your cup of tea, or you want to make changes to the site that go beyond guide creation, you'll need a local setup. This guide walks through installing the required tools, running the site on localhost, and testing your changes before pushing them.
 authors:
   - imtherealimagineiq

@@ -1,6 +1,7 @@
 ---
+draft: false
 title: Parallax
-weight: 5180
+weight: 5140
 date: 2024-01-15T00:00:00.000Z
 description: This guide will explain the main properties you need to know to effectively make use of parallax in your GD levels.
 authors:
@@ -8,7 +9,9 @@ authors:
 contributors:
   - komatic5
   - sparktwee
-draft: false
+tags:
+  - Grade 1
+  - Visual Effects
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Deco Styles
 weight: 5200
 date: 2023-11-01T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - kde
   - komatic5
-draft: false
+tags:
+  - Grade 1
+  - Deco Skills
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

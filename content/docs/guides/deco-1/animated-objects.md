@@ -1,13 +1,17 @@
 ---
+draft: false
 title: Animated Objects
 weight: 5020
 date: 2024-01-01T00:00:00.000Z
+description: Animated objects are objects that have special animations, which (besides monsters and the Particle Editor) share common settings. This guide explains these settings in general.
 authors:
   - print6165
 contributors:
   - komatic5
   - print6165
-draft: false
+tags:
+  - Grade 1
+  - Deco Basics
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
@@ -17,6 +21,9 @@ draft: false
 {{< /callout >}}
 
 ** **
+
+Animated objects can be found in the tab next to Gameplay objects. You can change their setting in the :EditSpecial: Edit Special menu for these objects.
+
 # 1: Animation Options
 
 ## Use Speed & Randomize Start

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Perspective 2 (Making Forms)
 date: 2023-11-01T00:00:00.000Z
 weight: 8210
@@ -10,7 +11,9 @@ contributors:
   - komatic5
   - chunlv1
   - notamoderatr
-draft: false
+tags:
+  - Grade 2
+  - Perspective
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 

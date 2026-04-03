@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Evenness
 weight: 110020
 date: 2026-03-21T00:00:00.000Z
@@ -7,7 +8,9 @@ authors:
   - komatic5
 contributors:
   - komatic5
-draft: false
+tags:
+  - Grade 3
+  - Design Theory
 math: true
 seo:
   title: Evenness in Geometry Dash

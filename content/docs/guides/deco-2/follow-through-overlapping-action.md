@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Follow Through & Overlapping Action
 weight: 8110
 date: 2025-04-30T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - asandboxer
   - sparktwee
-draft: false
+tags:
+  - Grade 2
+  - Animation
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

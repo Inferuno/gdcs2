@@ -1,13 +1,16 @@
 ---
+draft: false
 title: Making Air Deco
 weight: 5100
 date: 2023-03-18T00:00:00.000Z
-descriptoion: Air Deco is often discussed and talked about, yet it's also very misunderstood. This guide explains how you should use and create Air Deco for your levels.
+description: Air Deco is a neat way to make your work look more lively and fill in space that might be really empty otherwise. This guide will go over some common types of air deco and how to make them.
 authors:
   - komatic5
 contributors:
   - komatic5
-draft: false
+tags:
+  - Grade 1
+  - Deco Skills
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

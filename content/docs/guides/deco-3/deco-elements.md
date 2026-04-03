@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Elements of Decoration
 weight: 110010
 date: 2026-03-26T00:00:00.000Z
@@ -7,7 +8,9 @@ authors:
   - komatic5
 contributors:
   - komatic5
-draft: false
+tags:
+  - Grade 3
+  - Design Theory
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
@@ -40,7 +43,7 @@ The components of deco are as follows.
 * **Space:** The area between and inside shapes. This can be positive space, such as the space taken up by objects, or negative space which is between objects. Both types of space are important to consider, especially for visual effects and transitions.
 * **Texture:** The material an object has or appears to have. Since we're not working with real objects, this is also implied like form. You can make objects appear to have texture by using lighting and colors.
 
-# \# 2: Applying Deco Elements
+# 2: Applying Deco Elements
 
 While it's important to know what elements make up deco, it's equally (or even more) important to know about how to use them. There are many concepts you'll learn in later guides for this. For now though, it's important to go through the most important concepts.
 

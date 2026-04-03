@@ -1,13 +1,16 @@
 ---
+draft: false
 title: Using Shaders
-weight: 5125
+weight: 5145
 date: 2026-03-29T00:00:00.000Z
 description: Shaders are powerful visual tools that allow many creators to change how the entire screen looks or feels during the level. Instead of simply decorating to make the level visually appealing, shaders let you apply many different effects that help making your level more immersive. However, using shaders effectively requires practice, planning, and a clear understanding on how they work. This guide explains how to use shaders properly, especially for people who want to improve the level design and atmosphere of their level.
 authors:
   - poryii
 contributors:
   - poryii
-draft: false
+tags:
+  - Grade 1
+  - Visual Effects
 ---
 
 {{< callout context="caution" title="Incomplete guide" icon="outline/info-circle" >}}

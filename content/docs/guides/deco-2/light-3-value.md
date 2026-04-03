@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Light 3 (Value)
 weight: 8080
 date: 2023-12-15T00:00:00.000Z
@@ -7,8 +8,9 @@ authors:
   - lifecheck
 contributors:
   - lifecheck
-  - notamoderatr
-draft: false
+tags:
+  - Grade 2
+  - Light & Color
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

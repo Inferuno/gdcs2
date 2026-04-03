@@ -1,4 +1,5 @@
 ---
+draft: false
 title: How to Decorate
 date: 2024-07-19T00:00:00.000Z
 weight: 5001
@@ -10,7 +11,9 @@ contributors:
   - komatic5
   - notamoderatr
   - poryii
-draft: false
+tags:
+  - Grade 1
+  - Deco Basics
 seo:
   title: How To Decorate in Geometry Dash
   description: Are you struggling to decorate? This guide provides a full overview of everything you must know to get started.

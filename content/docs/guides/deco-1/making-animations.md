@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Making Animations
 weight: 5110
 date: 2023-08-05T00:00:00.000Z
@@ -9,7 +10,9 @@ contributors:
   - komatic5
   - yoreid
   - poryii
-draft: false
+tags:
+  - Grade 1
+  - Deco Skills
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

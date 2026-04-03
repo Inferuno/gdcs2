@@ -1,14 +1,17 @@
 ---
+draft: true
 title: Detailing
 weight: 110020
 date: null
 description: null
+tags:
+  - Grade 3
+  - Design Theory
 seo:
   title: null
   description: null
   canonical: ""
   noindex: false
-draft: true
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

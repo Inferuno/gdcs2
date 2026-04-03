@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Perspective 1 (Basics)
 date: 2023-05-21T00:00:00.000Z
 weight: 8200
@@ -8,7 +9,9 @@ authors:
 contributors:
   - kde
   - komatic5
-draft: false
+tags:
+  - Grade 2
+  - Perspective
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 

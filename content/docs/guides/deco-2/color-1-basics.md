@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Color 1 (Basics)
 weight: 8010
 date: 2023-10-15T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - gustonguygermany
   - kde
-draft: false
+tags:
+  - Grade 2
+  - Light & Color
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

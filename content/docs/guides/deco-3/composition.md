@@ -1,14 +1,17 @@
 ---
+draft: true
 title: Composition
 weight: 110020
 date: null
 description: "Common static compositions; camera angles; focal points; leading the eye; arranging part elements; scale; applying theory elements here. Design for Motion: Fundamentals and Techniques of Motion Design, by Austin Shaw"
+tags:
+  - Grade 3
+  - Design Applications
 seo:
   title: null
   description: null
   canonical: ""
   noindex: false
-draft: true
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

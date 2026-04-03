@@ -1,6 +1,7 @@
 ---
+draft: false
 title: Optimizing
-weight: 5190
+weight: 5130
 date: 2023-06-26T00:00:00.000Z
 description: Optimization, like simplification, is an important way to make your decoration efficient. Unlike simplification, its main goal is to keep your levels as accessible as possible. This guide explains the process you should use to optimize your levels.
 authors:
@@ -8,7 +9,9 @@ authors:
 contributors:
   - creeperiv
   - komatic5
-draft: false
+tags:
+  - Grade 1
+  - Deco Skills
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
@@ -19,6 +22,7 @@ draft: false
 {{< /callout >}}
 
 ** **
+
 **Object Efficiency**, or **Optimization**, refers to decreasing the object count while keeping the visuals the same. This is important because poor optimization can often make levels far more difficult to play, and much more laggy. In this guide, we'll go over how you can optimize your decoration.
 
 # 1: Efficiency Skills

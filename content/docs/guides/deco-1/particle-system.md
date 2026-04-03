@@ -1,6 +1,7 @@
 ---
+draft: false
 title: Particle System
-weight: 5120
+weight: 5033
 date: 2023-11-01T00:00:00.000Z
 description: The particle system, while extremely powerful, can be daunting. This is especially due to the number of options, and values. However, with this guide and a little practice, you should be able to navigate the system with at least a little more confidence.
 authors:
@@ -10,7 +11,9 @@ contributors:
   - komatic5
   - naem.less
   - halfcookedramen
-draft: false
+tags:
+  - Grade 1
+  - Deco Features
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

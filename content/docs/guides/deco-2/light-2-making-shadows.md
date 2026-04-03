@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Light 2 (Making Shadows)
 weight: 8070
 date: 2025-06-30T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - alexunam_777
   - komatic5
-draft: false
+tags:
+  - Grade 2
+  - Light & Color
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

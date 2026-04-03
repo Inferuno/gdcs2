@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Blending Masks
 date: 2023-10-13T00:00:00.000Z
 weight: 5160
@@ -9,7 +10,9 @@ contributors:
   - kde
   - unknown
   - poryii
-draft: false
+tags:
+  - Grade 1
+  - Visual Effects
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Blending feature in the editor allows you to combine the colors of objects by adding their RGB values together.

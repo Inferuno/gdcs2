@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Perspective 3 (Using Planes)
 date: 2024-05-31T00:00:00.000Z
 weight: 8220
@@ -9,7 +10,9 @@ contributors:
   - komatic5
   - sparktwee
   - vayulenagd
-draft: false
+tags:
+  - Grade 2
+  - Perspective
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

@@ -1,14 +1,17 @@
 ---
+draft: true
 title: Shape Design
 weight: 110020
 date: null
 description: Types of angles & shapes; BMS; relating shapes to colors; pleasing shapes; applying evenness & hierarchy to shapes; simplicity; detail placement & importance
+tags:
+  - Grade 3
+  - Design Applications
 seo:
   title: null
   description: null
   canonical: ""
   noindex: false
-draft: true
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

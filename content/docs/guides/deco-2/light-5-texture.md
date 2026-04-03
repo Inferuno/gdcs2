@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Light 5 (Texture)
 weight: 8100
 date: 2025-03-17T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - komatic5
   - skytriz
-draft: false
+tags:
+  - Grade 2
+  - Light & Color
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

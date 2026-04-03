@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Detail Objects
 weight: 5030
 date: 2024-01-14T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - aquarware
   - komatic5
-draft: false
+tags:
+  - Grade 1
+  - Deco Basics
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

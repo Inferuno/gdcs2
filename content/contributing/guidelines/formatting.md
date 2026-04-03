@@ -2,7 +2,7 @@
 draft: false
 title: Formatting
 weight: 500
-date: 2026-03-23
+date: 2026-03-23T00:00:00.000Z
 description: Once your setup is ready, you can start writing guides. This guide covers how to structure content using a frontmatter, format your text, and use shortcodes to embed media and standard components.
 authors:
   - komatic5

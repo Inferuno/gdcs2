@@ -2,7 +2,7 @@
 draft: false
 title: Writing Style
 weight: 600
-date: 2024-07-06
+date: 2024-07-06T00:00:00.000Z
 description: This guide explains what makes a good guide and how to write one. It covers the full writing process, from planning and structuring content to refining it with feedback and examples.
 authors:
   - komatic5

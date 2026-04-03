@@ -11,6 +11,9 @@ contributors:
   - illusion2
   - silvow
   - sparktwee
+tags:
+  - Grade 1
+  - Deco Skills
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
@@ -45,7 +48,7 @@ A specific effect that uses opacity is **color banding**. It can be made by stac
 
 {{< youtube a81bGfnI8r0 >}}
 
-**Blending** is probably the most versatile option in the color channels. To quickly summarize blending, **it takes the color values of a color and adds it onto the colors behind it**. This is another way you can create new colors. For instance, overlapping a red object and a blue object will create purple within the region where they overlap. 
+**Blending** is probably the most versatile option in the color channels. To quickly summarize blending, **it takes the color values of a color and adds it onto the colors behind it**. This is another way you can create new colors. For instance, overlapping a red object and a blue object will create purple within the region where they overlap.
 
 Blending objects appear to become more transparent as they become darker, meaning you have most of the applications of opacity as well. You could use this to pulse objects without giving them a separate group that is invisible. Blending objects look like they disappear on top of white objects as well, because white has maximum color values and therefore adding color onto white just looks white.
 

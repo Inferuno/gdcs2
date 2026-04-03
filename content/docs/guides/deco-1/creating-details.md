@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Creating Details
 date: 2024-05-15T00:00:00.000Z
 weight: 5005
@@ -8,7 +9,9 @@ authors:
 contributors:
   - komatic5
   - sparktwee
-draft: false
+tags:
+  - Grade 1
+  - Deco Basics
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

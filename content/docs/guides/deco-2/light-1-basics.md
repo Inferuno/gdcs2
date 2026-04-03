@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Light 1 (Basics)
 date: 2023-05-21T00:00:00.000Z
 weight: 8060
@@ -8,7 +9,9 @@ authors:
 contributors:
   - komatic5
   - print6165
-draft: false
+tags:
+  - Grade 2
+  - Light & Color
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

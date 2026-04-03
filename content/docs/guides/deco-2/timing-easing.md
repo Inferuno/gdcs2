@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Timing & Easing
 weight: 8108
 date: 2025-11-15T00:00:00.000Z
@@ -8,5 +9,7 @@ authors:
 contributors:
   - averageundertalefan
   - sparktwee
-draft: true
+tags:
+  - Grade 2
+  - Animation
 ---

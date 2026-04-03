@@ -2,7 +2,7 @@
 draft: false
 title: Decap
 weight: 200
-date: 2026-03-23
+date: 2026-03-23T00:00:00.000Z
 description: Decap CMS is a Git-based content management system. It provides a web interface that lets you edit files in the repository without working directly with Git. Here we'll cover how to use it in order to make contributing easier for everyone.
 authors:
   - komatic5

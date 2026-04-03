@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Layering Masks
 date: 2023-10-13T00:00:00.000Z
 weight: 5150
@@ -8,7 +9,9 @@ authors:
 contributors:
   - thunderbat
   - unknown
-draft: false
+tags:
+  - Grade 1
+  - Visual Effects
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

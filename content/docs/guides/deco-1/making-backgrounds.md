@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Making Backgrounds
 weight: 5090
 date: 2023-06-22T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - kde
   - komatic5
-draft: false
+tags:
+  - Grade 1
+  - Deco Skills
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
