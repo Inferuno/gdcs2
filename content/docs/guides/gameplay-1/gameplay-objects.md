@@ -102,7 +102,7 @@ You can even type in negative numbers to create opposite effects.
 {{< img src="https://lh3.googleusercontent.com/d/1hddrBpJ5quHLlZNSwpmm3qU_qXuSL9xI" >}}
 
 * Toggle Orbs activate a group ID. Depending on how you set this orb’s Edit Special, it can act as a Toggle trigger or Spawn trigger. The [Touch trigger](/docs/guides/triggers-1/touch/) guide further explains their features.
-* :2Point2: Teleport Orb: This orb’s UI customizes how the player can teleport throughout the level. This is especially useful for platformer levels. This UI is identical to the teleport trigger’s setup menu which is covered in [this guide.](<>)
+* Teleport Orb: This orb’s UI customizes how the player can teleport throughout the level. This is especially useful for platformer levels. This UI is identical to the teleport trigger’s setup menu which is covered in [this guide.](<>) (added in 2.2)
 
 > Note: If you check the Edit Group’s Extra Menu, orbs and pads have the Reverse option, which is explained in the [Editing Objects](/docs/guides/the-editor/editing-objects/) guide.
 
@@ -120,7 +120,7 @@ As of Update 2.2, there are eight gamemode portals that change the player’s ov
 * Ship: Holding midair makes the player fly, while releasing slowly droops the player.
 * Ball: Tapping changes the player’s gravity.
 * UFO: Acts similarly to the cube but you can click while the player is mid-air.
-* Wave: Holding midair makes the player fly at a straight 45 angle, while releasing makes the player fly 45 downwards. This creates a trail that forms a zig zag pattern.
+* Wave: Holding midair makes the player fly at a straight 45 angle, while releasing makes the player fly 45 downwards. This creates a trail that forms a zig zag pattern. Note that the wave is slightly smaller than other gamemodes, even more so in mini mode.
 * Robot: You control the robot’s jump height depending on how long you. Tiny holds lead to micro jumps while long holds lead to large jumps.
 * Spider: Click to instantly switch gravity.
 * Swing: Acts similarly to the ball but you can click while the player is mid-air creating a curved path. (added in 2.2
@@ -142,7 +142,7 @@ The editor provides 3 types of gravity portals:
 
 * Yellow gravity portals flip the player’s gravity upside down.
 * Blue gravity portals return the player’s gravity to normal.
-* :2Point2: Green gravity portals swap the player’s current gravity.
+* Green gravity portals swap the player’s current gravity. (added in 2.2)
 
 {{< img src="https://lh3.googleusercontent.com/d/1xgffuY0PJcXSuapbLbGgr1c3_eIRRYRG" >}}
 
@@ -176,15 +176,15 @@ The blue mirror portal returns the screen back to normal such that the player tr
 
 Currently, the editor provides five types of speed portals which affects how quickly or slowly the player moves in the level:
 
-* Yellow 0.5x is the slowest default speed that the player can move in a level
-* Blue 1x is the default speed.
-* Green 2x doubles the default speed.
-* Pink 3x triples the default speed. Prior to Update 2.1, this is the fastest speed available.
-* Red 4x is the fastest default speed for a level.
+* **Yellow** is the slowest default speed that the player can move in a level
+* **Blue** is the default speed.
+* **Green** doubles the default speed.
+* **Pink** triples the default speed. Prior to Update 2.1, this is the fastest speed available.
+* **Red** is the fastest default speed for a level.
 
 ## Dual Portal
 
-The yellow dual portal splices the player to 2 different icons. The creator can choose whether these icons activate together or separately by enabling 2 Player Mode.
+The yellow dual portal splices the player to 2 different icons. The creator can choose whether these icons activate together or separately by enabling 2 Player Mode. If any one of these icons die, the other one dies as well.
 
 The blue dual portal reverts back to one player.
 
@@ -214,7 +214,7 @@ As of 2.2, there are six special blocks that affect how gamemodes function:
 
 * D blocks let the player safely touch blocks when in the wave gamemode.
 * J blocks disable auto jump on horizontal blocks. They don't work with the ground nor slopes.
-* S blocks disable dash orbs.
+* S blocks stop dash orbs.
 * H blocks let the player touch the underside of blocks in the Cube/Robot/Spider gamemodes, where they usually get killed.
 * Force blocks push the player in a direction with a level of force. It comes with 2 shapes: square force blocks and circular force blocks. (added in 2.2)
 * F blocks let the player flip gravity by touching the underside of a block. (added in 2.2)
@@ -233,9 +233,9 @@ Clicking this object’s Edit Special leads to the Setup Checkpoint UI, which co
 
 {{< img src="https://lh3.googleusercontent.com/d/1felVK3Taf5RsRXqze0fDw1jlhF1pvxR5" >}}
 
-* **SpawnID** **activates a group when the checkpoint is reached**.
-* **TargetPos** **sets a spawn point for the player to teleport after death**. This point needs to be a one-object group.
-* **RespawnID** **activates a group if the player respawns at that specific checkpoint**.
+* **SpawnID** activates a group when the checkpoint is reached.
+* **TargetPos** sets a spawn point for the player to teleport after death. This point needs to be a one-object group.
+* **RespawnID** activates a group if the player respawns at that specific checkpoint.
 
 Placing this object in Classic Mode is redundant unless you intend to use it as a detail object. While you can build a checkpoint system for classic levels, that requires a custom trigger setup which is outside of this guide’s scope.
 
