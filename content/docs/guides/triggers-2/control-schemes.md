@@ -49,18 +49,21 @@ This guide contains interactive images; you can click or hover over elements to 
 
 # 1: Inputs
 
+
 ## Single Player Mode
 
-For mobile, taping on the screen anywhere (except for the pause and practice buttons) will count as a jump.
-The Left/Right buttons are also visible on screen in platformer mode when on mobile.
+
+For mobile, tapping on the screen anywhere (except for the pause and practice buttons) will count as a jump. The Left/Right buttons are also visible on screen in platformer mode when on mobile.
+
 
 <!-- EXAMPLE HERE -->
 
+
 ## 2-Player mode
 
-The 8 keys are spread across the 2 players, with P1 having more options for jumping.
-In mobile the key is also split into 2, with the left side controlling P1 and the right side controlling P2
-The buttons are also visible on screen in platformer mode when on mobile.
+
+Two player mode offers 8 keys spread across the 2 players, with player 1 having more options for jumping. On mobile you can find the buttons on your screen.
+
 
 <!-- EXAMPLE HERE -->
 
